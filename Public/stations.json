@@ -1,0 +1,2998 @@
+[
+    {
+        "id": 363,
+        "eng_name": "Abanpola",
+        "sinhala_name": "අඹන්පොල",
+        "lat": 7.919,
+        "lon": 80.24609
+    },
+    {
+        "id": 535,
+        "eng_name": "Adagala",
+        "sinhala_name": "ආඳාගල",
+        "lat": 7.500795099999999,
+        "lon": 80.37352039999999
+    },
+    {
+        "id": 164,
+        "eng_name": "Ahangama",
+        "sinhala_name": "අහංගම",
+        "lat": 5.973147099999999,
+        "lon": 80.36382309999999
+    },
+    {
+        "id": 137,
+        "eng_name": "Ahungalle",
+        "sinhala_name": "අහුන්ගල්ල",
+        "lat": 6.312661899999999,
+        "lon": 80.03764
+    },
+    {
+        "id": 331,
+        "eng_name": "Akbopura",
+        "sinhala_name": "අග්බෝපුර",
+        "lat": 8.3313952,
+        "lon": 80.9764892
+    },
+    {
+        "id": 144,
+        "eng_name": "Akurala",
+        "sinhala_name": "අකුරළ",
+        "lat": 6.192056600000001,
+        "lon": 80.0648913
+    },
+    {
+        "id": 194,
+        "eng_name": "Alawatupitiya",
+        "sinhala_name": "අලවතුපිටිය",
+        "lat": 7.115814899999999,
+        "lon": 79.8870192
+    },
+    {
+        "id": 39,
+        "eng_name": "Alawwa",
+        "sinhala_name": "අලව්ව",
+        "lat": 7.2933097,
+        "lon": 80.23859379999999
+    },
+    {
+        "id": 517,
+        "eng_name": "aluth ambalama",
+        "sinhala_name": "අලුත් අම්බලම",
+        "lat": 6.939898599999999,
+        "lon": 80.15973
+    },
+    {
+        "id": 131,
+        "eng_name": "Aluthgama",
+        "sinhala_name": "අළුත්ගම",
+        "lat": 6.432939999999999,
+        "lon": 80.00025
+    },
+    {
+        "id": 288,
+        "eng_name": "Alwala",
+        "sinhala_name": "ඇල්වල",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 142,
+        "eng_name": "Ambalangoda",
+        "sinhala_name": "අම්බලන්ගොඩ",
+        "lat": 6.2352678,
+        "lon": 80.05498759999999
+    },
+    {
+        "id": 89,
+        "eng_name": "Ambewela",
+        "sinhala_name": "අඹේවෙල",
+        "lat": 6.8771336,
+        "lon": 80.8146143
+    },
+    {
+        "id": 35,
+        "eng_name": "Ambeypussa",
+        "sinhala_name": "අඹේපුස්ස",
+        "lat": 7.241776299999999,
+        "lon": 80.2112164
+    },
+    {
+        "id": 219,
+        "eng_name": "Anawilundawa",
+        "sinhala_name": "ආනවිලුන්දාව",
+        "lat": 7.703179899999999,
+        "lon": 79.82817829999999
+    },
+    {
+        "id": 140,
+        "eng_name": "Andadola",
+        "sinhala_name": "ආඳාදොළ",
+        "lat": 6.2660884,
+        "lon": 80.0469956
+    },
+    {
+        "id": 253,
+        "eng_name": "Angampitiya",
+        "sinhala_name": "අංගම්පිටිය",
+        "lat": 6.847003099999999,
+        "lon": 80.1191296
+    },
+    {
+        "id": 114,
+        "eng_name": "Angulana",
+        "sinhala_name": "අඟුලාන",
+        "lat": 6.7989494,
+        "lon": 79.8726144
+    },
+    {
+        "id": 370,
+        "eng_name": "Anuradhapura",
+        "sinhala_name": "අනුරාධපුර",
+        "lat": 8.344419499999999,
+        "lon": 80.41083619999999
+    },
+    {
+        "id": 369,
+        "eng_name": "Anuradhapura Town",
+        "sinhala_name": "අනුරාධපුර නව නගරය",
+        "lat": 8.311351799999999,
+        "lon": 80.4036508
+    },
+    {
+        "id": 218,
+        "eng_name": "Arachchikattuwa",
+        "sinhala_name": "ආරච්චිකට්ටුව",
+        "lat": 7.6673165,
+        "lon": 79.8286198
+    },
+    {
+        "id": 260,
+        "eng_name": "Arapangama",
+        "sinhala_name": "අරපන්ගම",
+        "lat": 6.9327688,
+        "lon": 80.1328971
+    },
+    {
+        "id": 385,
+        "eng_name": "Ariviyal Nagar",
+        "sinhala_name": "අරිවියල් නගර්",
+        "lat": 9.3186352,
+        "lon": 80.4076826
+    },
+    {
+        "id": 252,
+        "eng_name": "Arukwatte",
+        "sinhala_name": "අරුක්වත්ත",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 319,
+        "eng_name": "Aselapura",
+        "sinhala_name": "අසේලපුර",
+        "lat": 7.963536499999999,
+        "lon": 81.30014919999999
+    },
+    {
+        "id": 272,
+        "eng_name": "Asgiriya",
+        "sinhala_name": "අස්ගිරිය",
+        "lat": 7.299328900000001,
+        "lon": 80.63199780000001
+    },
+    {
+        "id": 519,
+        "eng_name": "ashokapura",
+        "sinhala_name": "අශෝකපුර",
+        "lat": 8.379944199999999,
+        "lon": 80.4787956
+    },
+    {
+        "id": 298,
+        "eng_name": "Aukana",
+        "sinhala_name": "අවුකන",
+        "lat": 8.0044451,
+        "lon": 80.5117497
+    },
+    {
+        "id": 268,
+        "eng_name": "Avissawella",
+        "sinhala_name": "අවිස්සාවේල්ල",
+        "lat": 6.954641899999999,
+        "lon": 80.2073635
+    },
+    {
+        "id": 545,
+        "eng_name": "Babaragala",
+        "sinhala_name": "බඹරගල",
+        "lat": 7.1736992,
+        "lon": 80.1700686
+    },
+    {
+        "id": 104,
+        "eng_name": "Badulla",
+        "sinhala_name": "බදුල්ල",
+        "lat": 6.9800441,
+        "lon": 81.0596801
+    },
+    {
+        "id": 52,
+        "eng_name": "Balana",
+        "sinhala_name": "බලන",
+        "lat": 7.2666393,
+        "lon": 80.4894293
+    },
+    {
+        "id": 139,
+        "eng_name": "Balapitiya",
+        "sinhala_name": "බලපිටිය",
+        "lat": 6.276649099999999,
+        "lon": 80.04341749999999
+    },
+    {
+        "id": 109,
+        "eng_name": "Bambalapitiya",
+        "sinhala_name": "බම්බලපිටිය",
+        "lat": 6.8936984,
+        "lon": 79.8529574
+    },
+    {
+        "id": 176,
+        "eng_name": "Bambaranda",
+        "sinhala_name": "බඹරැන්ද",
+        "lat": 5.9704384,
+        "lon": 80.6600795
+    },
+    {
+        "id": 96,
+        "eng_name": "Bandarawela",
+        "sinhala_name": "බණ්ඩාරවෙල",
+        "lat": 6.8289271,
+        "lon": 80.987606
+    },
+    {
+        "id": 217,
+        "eng_name": "Bangadeniya",
+        "sinhala_name": "බංගදෙනිය",
+        "lat": 7.635406,
+        "lon": 79.8285002
+    },
+    {
+        "id": 56,
+        "eng_name": "Barammane",
+        "sinhala_name": "බරම්මනේ *",
+        "lat": 7.2681537,
+        "lon": 80.5629846
+    },
+    {
+        "id": 232,
+        "eng_name": "Baseline Road",
+        "sinhala_name": "බේස්ලයින් පාර",
+        "lat": 6.92636,
+        "lon": 79.87847
+    },
+    {
+        "id": 220,
+        "eng_name": "Battaluoya",
+        "sinhala_name": "බත්තුලුඔය",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 329,
+        "eng_name": "Batticaloa",
+        "sinhala_name": "මඩකලපුව",
+        "lat": 7.724485199999999,
+        "lon": 81.698769
+    },
+    {
+        "id": 17,
+        "eng_name": "Batuwatte",
+        "sinhala_name": "බටුවත්ත",
+        "lat": 7.0550971,
+        "lon": 79.9371954
+    },
+    {
+        "id": 178,
+        "eng_name": "Beliaththa",
+        "sinhala_name": "බෙලිඅත්ත",
+        "lat": 6.042146,
+        "lon": 80.73727099999999
+    },
+    {
+        "id": 23,
+        "eng_name": "Bemmulla",
+        "sinhala_name": "බෙම්මුල්ල",
+        "lat": 7.122427900000001,
+        "lon": 80.0204807
+    },
+    {
+        "id": 132,
+        "eng_name": "Bentota",
+        "sinhala_name": "බෙන්තොට",
+        "lat": 6.422187999999999,
+        "lon": 79.99665879999999
+    },
+    {
+        "id": 129,
+        "eng_name": "Beruwala",
+        "sinhala_name": "බේරුවල",
+        "lat": 6.4769735,
+        "lon": 79.9836388
+    },
+    {
+        "id": 204,
+        "eng_name": "Bolawatte",
+        "sinhala_name": "බෝලවත්ත",
+        "lat": 7.297036999999999,
+        "lon": 79.86086639999999
+    },
+    {
+        "id": 153,
+        "eng_name": "Boossa",
+        "sinhala_name": "බූස්ස",
+        "lat": 6.0889494,
+        "lon": 80.1560648
+    },
+    {
+        "id": 205,
+        "eng_name": "Borelessa",
+        "sinhala_name": "බොරලැස්ස",
+        "lat": 7.319940000000001,
+        "lon": 79.86313
+    },
+    {
+        "id": 34,
+        "eng_name": "Botale",
+        "sinhala_name": "බෝතලේ",
+        "lat": 7.256678300000001,
+        "lon": 80.1531708
+    },
+    {
+        "id": 542,
+        "eng_name": "Buddanegama",
+        "sinhala_name": "බුද්දනේගම",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 38,
+        "eng_name": "Bujjomuwa",
+        "sinhala_name": "බුජ්ජොමුව",
+        "lat": 7.273176299999998,
+        "lon": 80.2106113
+    },
+    {
+        "id": 18,
+        "eng_name": "Bulugahagoda",
+        "sinhala_name": "බුළුගහගොඩ",
+        "lat": 7.0660845,
+        "lon": 79.94564679999999
+    },
+    {
+        "id": 395,
+        "eng_name": "Chavakachcheri",
+        "sinhala_name": "චාවාකච්චේරිය",
+        "lat": 9.657150099999999,
+        "lon": 80.1585782
+    },
+    {
+        "id": 340,
+        "eng_name": "Cheddikulam",
+        "sinhala_name": "සෙට්ටිකුලම",
+        "lat": 8.6690572,
+        "lon": 80.3055475
+    },
+    {
+        "id": 215,
+        "eng_name": "Chilaw",
+        "sinhala_name": "හලාවත",
+        "lat": 7.5755526,
+        "lon": 79.7911128
+    },
+    {
+        "id": 336,
+        "eng_name": "China bay",
+        "sinhala_name": "චීන වරාය",
+        "lat": 8.556479999999999,
+        "lon": 81.19049919999999
+    },
+    {
+        "id": 403,
+        "eng_name": "Chunnakam",
+        "sinhala_name": "චුන්නාකම්",
+        "lat": 9.7458374,
+        "lon": 80.03343129999999
+    },
+    {
+        "id": 316,
+        "eng_name": "Colconveli",
+        "sinhala_name": "කොල්කන්වේලි",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 500,
+        "eng_name": "Colombo Fort",
+        "sinhala_name": "කොළඹ කොටුව",
+        "lat": 6.9337011,
+        "lon": 79.85003019999999
+    },
+    {
+        "id": 233,
+        "eng_name": "Cotta Road",
+        "sinhala_name": "කෝට්ටේ පාර",
+        "lat": 6.913349999999999,
+        "lon": 79.8845
+    },
+    {
+        "id": 22,
+        "eng_name": "Daraluwa",
+        "sinhala_name": "දාරළුව",
+        "lat": 7.1071528,
+        "lon": 80.0104558
+    },
+    {
+        "id": 111,
+        "eng_name": "Dehiwala",
+        "sinhala_name": "දෙහිවල",
+        "lat": 6.8509059,
+        "lon": 79.86209749999999
+    },
+    {
+        "id": 76,
+        "eng_name": "Dekinda",
+        "sinhala_name": "දෙකින්ද",
+        "lat": 7.001233900000001,
+        "lon": 80.5202647
+    },
+    {
+        "id": 9,
+        "eng_name": "Dematagoda",
+        "sinhala_name": "දෙමටගොඩ",
+        "lat": 6.9375,
+        "lon": 79.87919
+    },
+    {
+        "id": 101,
+        "eng_name": "Demodara",
+        "sinhala_name": "දෙමෝදර",
+        "lat": 6.90293,
+        "lon": 81.06277999999999
+    },
+    {
+        "id": 325,
+        "eng_name": "Dewapuram",
+        "sinhala_name": "දේවපුරම්",
+        "lat": 7.8266646,
+        "lon": 81.5572395
+    },
+    {
+        "id": 529,
+        "eng_name": "dewedda",
+        "sinhala_name": "දෑවැද්ද",
+        "lat": 7.6241545,
+        "lon": 80.3597321
+    },
+    {
+        "id": 95,
+        "eng_name": "Diyatalawa",
+        "sinhala_name": "දියතලාව",
+        "lat": 6.8019304,
+        "lon": 80.9591616
+    },
+    {
+        "id": 151,
+        "eng_name": "Dodanduwa",
+        "sinhala_name": "දොඩන්දු​ව",
+        "lat": 6.0982147,
+        "lon": 80.1328558
+    },
+    {
+        "id": 13,
+        "eng_name": "Ederamulla",
+        "sinhala_name": "එඬේරමුල්ල",
+        "lat": 7.00034,
+        "lon": 79.90687
+    },
+    {
+        "id": 118,
+        "eng_name": "Egoda Uyana",
+        "sinhala_name": "එගොඩ උයන",
+        "lat": 6.7428681,
+        "lon": 79.8916796
+    },
+    {
+        "id": 388,
+        "eng_name": "Elephant Pass",
+        "sinhala_name": "අලිමංකඩ",
+        "lat": 9.5021831,
+        "lon": 80.4058617
+    },
+    {
+        "id": 100,
+        "eng_name": "Ella",
+        "sinhala_name": "ඇල්ල",
+        "lat": 6.8757755,
+        "lon": 81.0471082
+    },
+    {
+        "id": 390,
+        "eng_name": "Eluthumattuval",
+        "sinhala_name": "එළුදුමට්ටුවාල්",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 377,
+        "eng_name": "Eratperiakulam",
+        "sinhala_name": "ඊරට්පෙරියකුලම",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 328,
+        "eng_name": "Eravur",
+        "sinhala_name": "එරාවුර්",
+        "lat": 7.785586400000001,
+        "lon": 81.6044138
+    },
+    {
+        "id": 225,
+        "eng_name": "Erukkalampiddy Nagawillu",
+        "sinhala_name": "එරුක්කලම්පිඩ්ඩි නාගවිල්ලු",
+        "lat": 9.0343506,
+        "lon": 79.881483
+    },
+    {
+        "id": 75,
+        "eng_name": "Galboda",
+        "sinhala_name": "ගල්බොඩ",
+        "lat": 6.9866737,
+        "lon": 80.52985790000001
+    },
+    {
+        "id": 364,
+        "eng_name": "Galgamuwa",
+        "sinhala_name": "ගල්ගමුව",
+        "lat": 8.00218,
+        "lon": 80.27163
+    },
+    {
+        "id": 510,
+        "eng_name": "Galkanda waththa",
+        "sinhala_name": "ගල්කන්ද වත්ත",
+        "lat": 6.7500732,
+        "lon": 80.9463464
+    },
+    {
+        "id": 157,
+        "eng_name": "Galle",
+        "sinhala_name": "ගාල්ල",
+        "lat": 6.0333459,
+        "lon": 80.2143601
+    },
+    {
+        "id": 314,
+        "eng_name": "Gallella",
+        "sinhala_name": "ගල්ලෑල්ල",
+        "lat": 7.914302500000001,
+        "lon": 81.0490099
+    },
+    {
+        "id": 306,
+        "eng_name": "Galoya Junction",
+        "sinhala_name": "ගල්ඔය හන්දිය",
+        "lat": 8.1377888,
+        "lon": 80.8657479
+    },
+    {
+        "id": 256,
+        "eng_name": "Gammana",
+        "sinhala_name": "ගම්මාන",
+        "lat": 6.8788196,
+        "lon": 80.1219215
+    },
+    {
+        "id": 21,
+        "eng_name": "Gampaha",
+        "sinhala_name": "ගම්පහ",
+        "lat": 7.0935465,
+        "lon": 79.9937296
+    },
+    {
+        "id": 64,
+        "eng_name": "Gampola",
+        "sinhala_name": "ගම්පොල",
+        "lat": 7.16219,
+        "lon": 80.56683
+    },
+    {
+        "id": 30,
+        "eng_name": "Ganegoda",
+        "sinhala_name": "ගණේගොඩ",
+        "lat": 7.212889999999999,
+        "lon": 80.10508999999999
+    },
+    {
+        "id": 19,
+        "eng_name": "Ganemulla",
+        "sinhala_name": "ගණේමුල්ල",
+        "lat": 7.068559199999999,
+        "lon": 79.9599575
+    },
+    {
+        "id": 357,
+        "eng_name": "Ganewatte",
+        "sinhala_name": "ගනේවත්ත",
+        "lat": 7.6557037,
+        "lon": 80.34925919999999
+    },
+    {
+        "id": 62,
+        "eng_name": "Gangathilaka",
+        "sinhala_name": "ගංගාතිලක",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 49,
+        "eng_name": "Gangoda",
+        "sinhala_name": "ගංගොඩ",
+        "lat": 7.2962468,
+        "lon": 80.4546189
+    },
+    {
+        "id": 333,
+        "eng_name": "Gantalawa",
+        "sinhala_name": "ගංතලාව",
+        "lat": 8.4359693,
+        "lon": 81.0485545
+    },
+    {
+        "id": 59,
+        "eng_name": "Gelioya",
+        "sinhala_name": "ගෙලිඔය",
+        "lat": 7.213891799999999,
+        "lon": 80.5986214
+    },
+    {
+        "id": 154,
+        "eng_name": "Ginthota",
+        "sinhala_name": "ගිංතොට",
+        "lat": 6.060698899999999,
+        "lon": 80.1793841
+    },
+    {
+        "id": 350,
+        "eng_name": "Girambe",
+        "sinhala_name": "ගිරාඹේ",
+        "lat": 7.3643172,
+        "lon": 80.3025662
+    },
+    {
+        "id": 554,
+        "eng_name": "Glrnor",
+        "sinhala_name": "ග්ලෙනෝර්",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 247,
+        "eng_name": "Godagama",
+        "sinhala_name": "ගොඩගම",
+        "lat": 6.8479513,
+        "lon": 80.0328269
+    },
+    {
+        "id": 85,
+        "eng_name": "Great Western",
+        "sinhala_name": "ග්‍රේට් වෙස්ටර්න්",
+        "lat": 6.9571952,
+        "lon": 80.6890494
+    },
+    {
+        "id": 161,
+        "eng_name": "Habaraduwa",
+        "sinhala_name": "හබරාදු​ව",
+        "lat": 5.9940517,
+        "lon": 80.3072959
+    },
+    {
+        "id": 304,
+        "eng_name": "Habarana",
+        "sinhala_name": "හබරණ",
+        "lat": 8.0571669,
+        "lon": 80.7696287
+    },
+    {
+        "id": 524,
+        "eng_name": "hadirawalana",
+        "sinhala_name": "හදිරවලාන",
+        "lat": 7.549396,
+        "lon": 80.3771814
+    },
+    {
+        "id": 103,
+        "eng_name": "Haliela",
+        "sinhala_name": "හාලි ඇල",
+        "lat": 6.9539896,
+        "lon": 81.0335255
+    },
+    {
+        "id": 94,
+        "eng_name": "Haputale",
+        "sinhala_name": "හපුතලේ",
+        "lat": 6.7682933,
+        "lon": 80.9576082
+    },
+    {
+        "id": 309,
+        "eng_name": "Hatamuna",
+        "sinhala_name": "හතමුණ",
+        "lat": 7.305744699999999,
+        "lon": 80.69824779999999
+    },
+    {
+        "id": 305,
+        "eng_name": "Hataras Kotuwa",
+        "sinhala_name": "හතරැස්කොටුව",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 80,
+        "eng_name": "Hatton",
+        "sinhala_name": "හැටන්",
+        "lat": 6.8932386,
+        "lon": 80.5974734
+    },
+    {
+        "id": 98,
+        "eng_name": "Heel Oya",
+        "sinhala_name": "හීල් ඔය",
+        "lat": 6.844250799999999,
+        "lon": 81.0256505
+    },
+    {
+        "id": 25,
+        "eng_name": "Heendeniya Pattigoda",
+        "sinhala_name": "හීන්දෙනිය පට්ටිගොඩ",
+        "lat": 7.141145499999999,
+        "lon": 80.0471163
+    },
+    {
+        "id": 72,
+        "eng_name": "Heightenford",
+        "sinhala_name": "හයිටෙන්ෆෝර්ඩ්",
+        "lat": 7.0318979,
+        "lon": 80.5298066
+    },
+    {
+        "id": 130,
+        "eng_name": "Hettimulla",
+        "sinhala_name": "හෙට්ටිමුල්ල",
+        "lat": 6.458069999999999,
+        "lon": 79.99077
+    },
+    {
+        "id": 551,
+        "eng_name": "Higuranoya",
+        "sinhala_name": "හඟුරන්ඔය",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 148,
+        "eng_name": "Hikkaduwa",
+        "sinhala_name": "හික්කඩුව",
+        "lat": 6.142173499999999,
+        "lon": 80.1000845
+    },
+    {
+        "id": 308,
+        "eng_name": "Hingurakgoda",
+        "sinhala_name": "හිඟුරක්ගොඩ",
+        "lat": 8.039690499999999,
+        "lon": 80.95151419999999
+    },
+    {
+        "id": 264,
+        "eng_name": "Hingurala",
+        "sinhala_name": "හිගුරල",
+        "lat": 6.936809999999999,
+        "lon": 80.17169
+    },
+    {
+        "id": 358,
+        "eng_name": "Hiriyala",
+        "sinhala_name": "හිරියාල",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 245,
+        "eng_name": "Homagama",
+        "sinhala_name": "හෝමාගම",
+        "lat": 6.8456822,
+        "lon": 80.004154
+    },
+    {
+        "id": 244,
+        "eng_name": "Homagama Hospital",
+        "sinhala_name": "හෝමාගම රෝහල පාර",
+        "lat": 6.8459026,
+        "lon": 79.9923927
+    },
+    {
+        "id": 14,
+        "eng_name": "Horape",
+        "sinhala_name": "හොරපෙ",
+        "lat": 7.0166204,
+        "lon": 79.9183961
+    },
+    {
+        "id": 302,
+        "eng_name": "Horiwiala",
+        "sinhala_name": "හොරිවිල",
+        "lat": 8.0679144,
+        "lon": 80.6781376
+    },
+    {
+        "id": 12,
+        "eng_name": "Hunupitiya",
+        "sinhala_name": "හුනුපිටිය",
+        "lat": 6.9876421,
+        "lon": 79.9003887
+    },
+    {
+        "id": 92,
+        "eng_name": "Idalgasinna",
+        "sinhala_name": "ඉදල්ගස්හින්න",
+        "lat": 6.782969,
+        "lon": 80.9000331
+    },
+    {
+        "id": 300,
+        "eng_name": "Ihalagama",
+        "sinhala_name": "ඉහළගම",
+        "lat": 7.096391799999999,
+        "lon": 80.0045811
+    },
+    {
+        "id": 50,
+        "eng_name": "Ihalakotte",
+        "sinhala_name": "ඉහළ කෝට්ටේ",
+        "lat": 7.288627099999999,
+        "lon": 80.469414
+    },
+    {
+        "id": 78,
+        "eng_name": "Ihalawatawala",
+        "sinhala_name": "ඉහළ වටවල",
+        "lat": 6.950013299999999,
+        "lon": 80.5376481
+    },
+    {
+        "id": 133,
+        "eng_name": "Induruwa",
+        "sinhala_name": "ඉඳුරුව",
+        "lat": 6.387497600000001,
+        "lon": 80.00863729999999
+    },
+    {
+        "id": 73,
+        "eng_name": "Inguruoya",
+        "sinhala_name": "ඉඟුරුඔය",
+        "lat": 7.0182148,
+        "lon": 80.5456209
+    },
+    {
+        "id": 402,
+        "eng_name": "Inuvil",
+        "sinhala_name": "ඉණුවිල්",
+        "lat": 9.7267277,
+        "lon": 80.02953169999999
+    },
+    {
+        "id": 197,
+        "eng_name": "Investment Promotion Zone",
+        "sinhala_name": "ආ. ප්‍ර. කලාපය",
+        "lat": 7.157883099999999,
+        "lon": 79.875238
+    },
+    {
+        "id": 191,
+        "eng_name": "Ja-ela",
+        "sinhala_name": "ජා-ඇල",
+        "lat": 7.0777784,
+        "lon": 79.8919894
+    },
+    {
+        "id": 399,
+        "eng_name": "Jaffna",
+        "sinhala_name": "යාපනය",
+        "lat": 9.66521,
+        "lon": 80.0208
+    },
+    {
+        "id": 310,
+        "eng_name": "Jayanthipura",
+        "sinhala_name": "ජයන්තිපුර",
+        "lat": 7.948315600000001,
+        "lon": 81.00178269999999
+    },
+    {
+        "id": 322,
+        "eng_name": "Kadadasi Nagar",
+        "sinhala_name": "කඩදාසි නගරය",
+        "lat": 7.0637889,
+        "lon": 79.93524959999999
+    },
+    {
+        "id": 47,
+        "eng_name": "Kadigamuwa",
+        "sinhala_name": "කඩිගමුව",
+        "lat": 7.3179559,
+        "lon": 80.4335153
+    },
+    {
+        "id": 54,
+        "eng_name": "Kadugannawa",
+        "sinhala_name": "කඩුගන්නාව",
+        "lat": 7.2578171,
+        "lon": 80.5207515
+    },
+    {
+        "id": 259,
+        "eng_name": "Kadugoda",
+        "sinhala_name": "කඩුගොඩ",
+        "lat": 6.9178824,
+        "lon": 80.1348916
+    },
+    {
+        "id": 63,
+        "eng_name": "Kahatapitiya",
+        "sinhala_name": "කහටපිටිය",
+        "lat": 7.168477299999999,
+        "lon": 80.5733603
+    },
+    {
+        "id": 145,
+        "eng_name": "Kahawa",
+        "sinhala_name": "කහව",
+        "lat": 6.183184799999999,
+        "lon": 80.0739732
+    },
+    {
+        "id": 175,
+        "eng_name": "Kakanadura",
+        "sinhala_name": "කැකණදුර",
+        "lat": 5.9605627,
+        "lon": 80.5989747
+    },
+    {
+        "id": 213,
+        "eng_name": "Kakkapalliya",
+        "sinhala_name": "කාක්කපල්ලිය",
+        "lat": 7.532859500000001,
+        "lon": 79.822728
+    },
+    {
+        "id": 299,
+        "eng_name": "Kalawewa",
+        "sinhala_name": "කලාවැව",
+        "lat": 8.023346600000002,
+        "lon": 80.5310994
+    },
+    {
+        "id": 324,
+        "eng_name": "Kalkudah",
+        "sinhala_name": "කල්කුඩා",
+        "lat": 7.896274,
+        "lon": 81.55411269999999
+    },
+    {
+        "id": 123,
+        "eng_name": "Kalutara North",
+        "sinhala_name": "උතුරු කළුතර",
+        "lat": 6.60124,
+        "lon": 79.95427
+    },
+    {
+        "id": 124,
+        "eng_name": "Kalutara South",
+        "sinhala_name": "දකුණු කළුතර",
+        "lat": 6.5841221,
+        "lon": 79.9590274
+    },
+    {
+        "id": 170,
+        "eng_name": "Kamburugamuwa",
+        "sinhala_name": "කඹුරුගමුව",
+        "lat": 5.941090200000001,
+        "lon": 80.4943382
+    },
+    {
+        "id": 189,
+        "eng_name": "Kandana",
+        "sinhala_name": "කඳාන",
+        "lat": 7.049299299999999,
+        "lon": 79.901585
+    },
+    {
+        "id": 141,
+        "eng_name": "Kandegoda",
+        "sinhala_name": "කන්දෙගොඩ",
+        "lat": 6.2501311,
+        "lon": 80.0529554
+    },
+    {
+        "id": 271,
+        "eng_name": "Kandy",
+        "sinhala_name": "මහනුවර",
+        "lat": 7.289563599999998,
+        "lon": 80.6323582
+    },
+    {
+        "id": 555,
+        "eng_name": "Kandy City",
+        "sinhala_name": "මහනුවර නගර නැවතුම",
+        "lat": 7.2905715,
+        "lon": 80.6337262
+    },
+    {
+        "id": 407,
+        "eng_name": "Kankesanthurai",
+        "sinhala_name": "කන්කසන්තුරේ",
+        "lat": 9.81467,
+        "lon": 80.04818999999999
+    },
+    {
+        "id": 332,
+        "eng_name": "Kantale",
+        "sinhala_name": "කන්තලේ",
+        "lat": 8.356349999999999,
+        "lon": 81.00614999999999
+    },
+    {
+        "id": 190,
+        "eng_name": "Kapuwatte",
+        "sinhala_name": "කපුවත්ත",
+        "lat": 7.0629149,
+        "lon": 79.896065
+    },
+    {
+        "id": 163,
+        "eng_name": "Kathaluwa",
+        "sinhala_name": "කතළුව",
+        "lat": 5.9825811,
+        "lon": 80.3403381
+    },
+    {
+        "id": 201,
+        "eng_name": "Kattuwa",
+        "sinhala_name": "කට්ටුව",
+        "lat": 7.239240000000001,
+        "lon": 79.84759
+    },
+    {
+        "id": 276,
+        "eng_name": "Katugastota",
+        "sinhala_name": "කටුගස්තොට",
+        "lat": 7.330459400000001,
+        "lon": 80.63299119999999
+    },
+    {
+        "id": 274,
+        "eng_name": "Katugastote para",
+        "sinhala_name": "කටුගස්තොට පාර",
+        "lat": 7.335990299999999,
+        "lon": 80.6214005
+    },
+    {
+        "id": 158,
+        "eng_name": "Katugoda",
+        "sinhala_name": "කටුගොඩ",
+        "lat": 6.03267,
+        "lon": 80.24013000000001
+    },
+    {
+        "id": 125,
+        "eng_name": "Katukurunda",
+        "sinhala_name": "කටුකුරුන්ද",
+        "lat": 6.56009,
+        "lon": 79.96607
+    },
+    {
+        "id": 198,
+        "eng_name": "Katunayake",
+        "sinhala_name": "කටුනායක",
+        "lat": 7.1669617,
+        "lon": 79.8721035
+    },
+    {
+        "id": 28,
+        "eng_name": "Keenawala",
+        "sinhala_name": "කීනවල",
+        "lat": 7.1854707,
+        "lon": 80.0744979
+    },
+    {
+        "id": 301,
+        "eng_name": "Kekirawa",
+        "sinhala_name": "කැකිරාව",
+        "lat": 8.0584046,
+        "lon": 80.5814503
+    },
+    {
+        "id": 10,
+        "eng_name": "Kelaniya",
+        "sinhala_name": "කැලණිය",
+        "lat": 6.9610997,
+        "lon": 79.8945133
+    },
+    {
+        "id": 386,
+        "eng_name": "Kilinochchi",
+        "sinhala_name": "කිලිනොච්චි",
+        "lat": 9.3897561,
+        "lon": 80.4065001
+    },
+    {
+        "id": 97,
+        "eng_name": "Kinigama",
+        "sinhala_name": "කිණිගම",
+        "lat": 6.8298433,
+        "lon": 81.0058612
+    },
+    {
+        "id": 548,
+        "eng_name": "Kiribathkubura",
+        "sinhala_name": "කිරිබත්කුඹුර",
+        "lat": 7.267925900000001,
+        "lon": 80.57496429999999
+    },
+    {
+        "id": 267,
+        "eng_name": "Kiriwandala",
+        "sinhala_name": "කිරිවන්දල",
+        "lat": 6.940946599999999,
+        "lon": 80.1963047
+    },
+    {
+        "id": 235,
+        "eng_name": "Kirulapana",
+        "sinhala_name": "කිරුලපන",
+        "lat": 6.8814717,
+        "lon": 79.8763476
+    },
+    {
+        "id": 99,
+        "eng_name": "Kital Ella",
+        "sinhala_name": "කිතල් ඇල්ල",
+        "lat": 6.861161200000001,
+        "lon": 81.043117
+    },
+    {
+        "id": 202,
+        "eng_name": "Kochchikade",
+        "sinhala_name": "කොච්චිකඩේ",
+        "lat": 7.264383700000001,
+        "lon": 79.85724809999999
+    },
+    {
+        "id": 392,
+        "eng_name": "Kodikamam",
+        "sinhala_name": "කොඩිකාමම්",
+        "lat": 9.6813807,
+        "lon": 80.21982910000001
+    },
+    {
+        "id": 162,
+        "eng_name": "Koggala",
+        "sinhala_name": "කොග්ගල",
+        "lat": 5.9859583,
+        "lon": 80.3316665
+    },
+    {
+        "id": 289,
+        "eng_name": "Kohombiliwala",
+        "sinhala_name": "කොහොඹිලිවල",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 400,
+        "eng_name": "Kokkuvil",
+        "sinhala_name": "කොකුවිල්",
+        "lat": 9.688276199999999,
+        "lon": 80.021131
+    },
+    {
+        "id": 108,
+        "eng_name": "Kollupitiya",
+        "sinhala_name": "කොල්ලුපිටිය",
+        "lat": 6.9112629,
+        "lon": 79.8481782
+    },
+    {
+        "id": 107,
+        "eng_name": "Kompannavediya",
+        "sinhala_name": "කොම්පඤ්ඤවීදිය",
+        "lat": 6.9235549,
+        "lon": 79.849704
+    },
+    {
+        "id": 401,
+        "eng_name": "Kondavil",
+        "sinhala_name": "කෝණ්ඩාවිල්",
+        "lat": 9.704184699999999,
+        "lon": 80.02463560000001
+    },
+    {
+        "id": 293,
+        "eng_name": "Konwewa",
+        "sinhala_name": "කෝන්වැව",
+        "lat": 7.8506762,
+        "lon": 80.3491732
+    },
+    {
+        "id": 117,
+        "eng_name": "Koralawella",
+        "sinhala_name": "කොරළවැල්ල",
+        "lat": 6.7577928,
+        "lon": 79.88736999999999
+    },
+    {
+        "id": 261,
+        "eng_name": "Kosgama",
+        "sinhala_name": "කොස්ගම",
+        "lat": 6.9406491,
+        "lon": 80.1373176
+    },
+    {
+        "id": 135,
+        "eng_name": "Kosgoda",
+        "sinhala_name": "කොස්ගොඩ",
+        "lat": 6.338439999999999,
+        "lon": 80.02946
+    },
+    {
+        "id": 58,
+        "eng_name": "Koshinna",
+        "sinhala_name": "කොස්හින්න",
+        "lat": 7.2333431,
+        "lon": 80.59505399999999
+    },
+    {
+        "id": 546,
+        "eng_name": "Kotabogoda",
+        "sinhala_name": "කොටබෝගොඩ",
+        "lat": 7.265273,
+        "lon": 80.533427
+    },
+    {
+        "id": 81,
+        "eng_name": "Kotagala",
+        "sinhala_name": "කොටගල",
+        "lat": 6.9283652,
+        "lon": 80.60857770000001
+    },
+    {
+        "id": 242,
+        "eng_name": "Kottawa",
+        "sinhala_name": "කොට්ටාව",
+        "lat": 6.843755499999999,
+        "lon": 79.96827809999999
+    },
+    {
+        "id": 193,
+        "eng_name": "Kudahakapola",
+        "sinhala_name": "කුඩහකපොල",
+        "lat": 7.103913599999999,
+        "lon": 79.88978999999999
+    },
+    {
+        "id": 210,
+        "eng_name": "Kudawewa",
+        "sinhala_name": "කුඩා වැව",
+        "lat": 7.462174600000001,
+        "lon": 79.85308529999999
+    },
+    {
+        "id": 150,
+        "eng_name": "Kumarakanda",
+        "sinhala_name": "කුමාරකන්ද",
+        "lat": 6.112369999999999,
+        "lon": 80.12425999999999
+    },
+    {
+        "id": 166,
+        "eng_name": "Kumbalgama",
+        "sinhala_name": "කුඹල්ගම",
+        "lat": 5.96362,
+        "lon": 80.40966999999999
+    },
+    {
+        "id": 537,
+        "eng_name": "kurahanhenegama",
+        "sinhala_name": "කුරහන්හේනේගම",
+        "lat": 7.7670538,
+        "lon": 80.2969413
+    },
+    {
+        "id": 199,
+        "eng_name": "Kurana",
+        "sinhala_name": "කුරණ",
+        "lat": 7.191076,
+        "lon": 79.8621136
+    },
+    {
+        "id": 354,
+        "eng_name": "Kurunegala",
+        "sinhala_name": "කුරුණෑගල",
+        "lat": 7.4767587,
+        "lon": 80.37407689999999
+    },
+    {
+        "id": 311,
+        "eng_name": "Laksauyana",
+        "sinhala_name": "ලක්ෂඋයන",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 196,
+        "eng_name": "Liyanagemulla",
+        "sinhala_name": "ලියනගෙමුල්ල",
+        "lat": 7.147194799999999,
+        "lon": 79.87818539999999
+    },
+    {
+        "id": 250,
+        "eng_name": "Liyanwala",
+        "sinhala_name": "ලියන්වල",
+        "lat": 6.8390578,
+        "lon": 80.0794449
+    },
+    {
+        "id": 115,
+        "eng_name": "Lunawa",
+        "sinhala_name": "ලුනාව",
+        "lat": 6.787065399999999,
+        "lon": 79.8754388
+    },
+    {
+        "id": 206,
+        "eng_name": "Lunuwila",
+        "sinhala_name": "ලුණුවිල",
+        "lat": 7.346807900000001,
+        "lon": 79.8629571
+    },
+    {
+        "id": 143,
+        "eng_name": "Madampagama",
+        "sinhala_name": "මාදම්පාගම",
+        "lat": 6.2168167,
+        "lon": 80.0671211
+    },
+    {
+        "id": 212,
+        "eng_name": "Madampe",
+        "sinhala_name": "මාදම්පේ",
+        "lat": 7.496872900000001,
+        "lon": 79.8413077
+    },
+    {
+        "id": 341,
+        "eng_name": "Madu Road",
+        "sinhala_name": "මඩු පාර",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 224,
+        "eng_name": "Madurankuliya",
+        "sinhala_name": "මදුරන්කුලිය",
+        "lat": 7.903040799999999,
+        "lon": 79.82101949999999
+    },
+    {
+        "id": 24,
+        "eng_name": "Magalegoda",
+        "sinhala_name": "මගලෙගොඩ",
+        "lat": 7.1338319,
+        "lon": 80.036248
+    },
+    {
+        "id": 128,
+        "eng_name": "Maggona",
+        "sinhala_name": "මග්ගොන",
+        "lat": 6.504445,
+        "lon": 79.9809172
+    },
+    {
+        "id": 134,
+        "eng_name": "Maha Induruwa",
+        "sinhala_name": "මහ ඉඳුරුව",
+        "lat": 6.3642294,
+        "lon": 80.014101
+    },
+    {
+        "id": 273,
+        "eng_name": "Mahaiyawa",
+        "sinhala_name": "මහයියාව",
+        "lat": 7.302299400000001,
+        "lon": 80.6348687
+    },
+    {
+        "id": 240,
+        "eng_name": "Maharagama",
+        "sinhala_name": "මහරගම",
+        "lat": 6.8482202,
+        "lon": 79.92676689999999
+    },
+    {
+        "id": 361,
+        "eng_name": "Maho",
+        "sinhala_name": "මහව හන්දිය",
+        "lat": 7.82309,
+        "lon": 80.27508
+    },
+    {
+        "id": 51,
+        "eng_name": "Makehelwala",
+        "sinhala_name": "මාකෙහෙල්වල *",
+        "lat": 7.281938599999999,
+        "lon": 80.47019639999999
+    },
+    {
+        "id": 243,
+        "eng_name": "Makumbura",
+        "sinhala_name": "මාකුඹුර",
+        "lat": 6.8387546,
+        "lon": 79.9766195
+    },
+    {
+        "id": 404,
+        "eng_name": "Mallakam",
+        "sinhala_name": "මල්ලාකම්",
+        "lat": 9.7629208,
+        "lon": 80.032381
+    },
+    {
+        "id": 315,
+        "eng_name": "Manampitiya",
+        "sinhala_name": "මනම්පිටිය",
+        "lat": 7.909602199999999,
+        "lon": 81.110126
+    },
+    {
+        "id": 223,
+        "eng_name": "Mangala Eliya",
+        "sinhala_name": "මංගල එළිය",
+        "lat": 7.8599091,
+        "lon": 79.8204619
+    },
+    {
+        "id": 541,
+        "eng_name": "mangalagama",
+        "sinhala_name": "මංගලගම",
+        "lat": 7.570743599999998,
+        "lon": 81.38255819999999
+    },
+    {
+        "id": 382,
+        "eng_name": "Mankulam",
+        "sinhala_name": "මාන්කුලම්",
+        "lat": 9.1306452,
+        "lon": 80.44413469999999
+    },
+    {
+        "id": 345,
+        "eng_name": "Mannar",
+        "sinhala_name": "මන්නාරම",
+        "lat": 8.9712236,
+        "lon": 79.8937814
+    },
+    {
+        "id": 216,
+        "eng_name": "Manuwangama",
+        "sinhala_name": "මානුවන්ගම",
+        "lat": 7.6007015,
+        "lon": 79.82742999999999
+    },
+    {
+        "id": 105,
+        "eng_name": "Maradana",
+        "sinhala_name": "මරදාන",
+        "lat": 6.92946,
+        "lon": 79.86511000000002
+    },
+    {
+        "id": 284,
+        "eng_name": "Marakona",
+        "sinhala_name": "මාරකොන",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 521,
+        "eng_name": "maraluwawa",
+        "sinhala_name": "මරළුවාව",
+        "lat": 7.508286399999998,
+        "lon": 80.3797834
+    },
+    {
+        "id": 290,
+        "eng_name": "Matale",
+        "sinhala_name": "මාතලේ",
+        "lat": 7.4680228,
+        "lon": 80.62482659999999
+    },
+    {
+        "id": 172,
+        "eng_name": "Matara",
+        "sinhala_name": "මාතර",
+        "lat": 5.9518,
+        "lon": 80.54352
+    },
+    {
+        "id": 343,
+        "eng_name": "Mathottam",
+        "sinhala_name": "මාතොට්ටම්",
+        "lat": 8.879139,
+        "lon": 79.9880019
+    },
+    {
+        "id": 275,
+        "eng_name": "Mavilmada",
+        "sinhala_name": "මාවිල්මඩ",
+        "lat": 7.3190747,
+        "lon": 80.6308711
+    },
+    {
+        "id": 406,
+        "eng_name": "Mavittapuram",
+        "sinhala_name": "මාවිත්තපුරම්",
+        "lat": 9.8007688,
+        "lon": 80.03532849999999
+    },
+    {
+        "id": 374,
+        "eng_name": "Medagama",
+        "sinhala_name": "මැදගම",
+        "lat": 7.0344732,
+        "lon": 81.276004
+    },
+    {
+        "id": 522,
+        "eng_name": "medagama",
+        "sinhala_name": "මැද්දෙගම",
+        "lat": 7.0344732,
+        "lon": 81.276004
+    },
+    {
+        "id": 375,
+        "eng_name": "Medawachchiya",
+        "sinhala_name": "මැදවච්චිය හන්දිය",
+        "lat": 8.5545621,
+        "lon": 80.45813799999999
+    },
+    {
+        "id": 279,
+        "eng_name": "Meegammana",
+        "sinhala_name": "මීගම්මන",
+        "lat": 7.340425799999999,
+        "lon": 80.6668309
+    },
+    {
+        "id": 248,
+        "eng_name": "Meegoda",
+        "sinhala_name": "මීගොඩ",
+        "lat": 6.84341,
+        "lon": 80.04626999999999
+    },
+    {
+        "id": 393,
+        "eng_name": "Meesalai",
+        "sinhala_name": "මීසාලේ",
+        "lat": 9.6734919,
+        "lon": 80.1888618
+    },
+    {
+        "id": 165,
+        "eng_name": "Midigama",
+        "sinhala_name": "මිදිගම",
+        "lat": 5.9653228,
+        "lon": 80.3913144
+    },
+    {
+        "id": 520,
+        "eng_name": "Mihintale",
+        "sinhala_name": "මිහින්තලේ",
+        "lat": 8.3589425,
+        "lon": 80.5017453
+    },
+    {
+        "id": 371,
+        "eng_name": "Mihintale Junction",
+        "sinhala_name": "මිහින්තලේ හන්දිය",
+        "lat": 8.3593406,
+        "lon": 80.4185888
+    },
+    {
+        "id": 307,
+        "eng_name": "Minneriya",
+        "sinhala_name": "මින්නේරිය",
+        "lat": 8.0653016,
+        "lon": 80.89473149999999
+    },
+    {
+        "id": 32,
+        "eng_name": "Mirigama",
+        "sinhala_name": "මීරිගම",
+        "lat": 7.242529999999999,
+        "lon": 80.12666
+    },
+    {
+        "id": 536,
+        "eng_name": "mirihampitigama",
+        "sinhala_name": "මිරිහම්පිටිගම",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 169,
+        "eng_name": "Mirissa",
+        "sinhala_name": "මිරිස්ස",
+        "lat": 5.956849999999999,
+        "lon": 80.47337999999999
+    },
+    {
+        "id": 263,
+        "eng_name": "Miriswatte",
+        "sinhala_name": "මිරිස්වත්ත",
+        "lat": 7.231207800000001,
+        "lon": 79.9108744
+    },
+    {
+        "id": 391,
+        "eng_name": "Mirusuvil",
+        "sinhala_name": "මිරුසුවිල්",
+        "lat": 9.667702799999999,
+        "lon": 80.23401799999999
+    },
+    {
+        "id": 334,
+        "eng_name": "Mollipatana",
+        "sinhala_name": "මොල්ලිපොතාන",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 295,
+        "eng_name": "Moragollagama",
+        "sinhala_name": "මොරගොල්ලාගම",
+        "lat": 7.906629499999999,
+        "lon": 80.4409967
+    },
+    {
+        "id": 257,
+        "eng_name": "Morakele",
+        "sinhala_name": "මොරකැලේ",
+        "lat": 6.886761799999999,
+        "lon": 80.1219215
+    },
+    {
+        "id": 116,
+        "eng_name": "Moratuwa",
+        "sinhala_name": "මොරටුව",
+        "lat": 6.7743782,
+        "lon": 79.88205180000001
+    },
+    {
+        "id": 112,
+        "eng_name": "Mount Lavinia",
+        "sinhala_name": "ගල්කිස්ස",
+        "lat": 6.8316849,
+        "lon": 79.86278949999999
+    },
+    {
+        "id": 222,
+        "eng_name": "Mundal",
+        "sinhala_name": "මුන්දලම",
+        "lat": 7.908953499999999,
+        "lon": 79.8229348
+    },
+    {
+        "id": 383,
+        "eng_name": "Murikandy",
+        "sinhala_name": "මුරුකණ්ඩි",
+        "lat": 9.304459999999999,
+        "lon": 80.40705
+    },
+    {
+        "id": 384,
+        "eng_name": "Murukandi kovila",
+        "sinhala_name": "මුරුකණ්ඩි කෝවිල",
+        "lat": 9.304459999999999,
+        "lon": 80.40705
+    },
+    {
+        "id": 342,
+        "eng_name": "Murunkan",
+        "sinhala_name": "මුරුන්කන්",
+        "lat": 8.8342735,
+        "lon": 80.0510474
+    },
+    {
+        "id": 355,
+        "eng_name": "Muththettugala",
+        "sinhala_name": "මුත්තෙට්ටුගල",
+        "lat": 7.495818499999999,
+        "lon": 80.37910939999999
+    },
+    {
+        "id": 359,
+        "eng_name": "Nagollagama",
+        "sinhala_name": "නාගොල්ලාගම",
+        "lat": 7.753601799999999,
+        "lon": 80.3146076
+    },
+    {
+        "id": 353,
+        "eng_name": "Nailiya",
+        "sinhala_name": "නයිලිය",
+        "lat": 7.4499434,
+        "lon": 80.3585476
+    },
+    {
+        "id": 501,
+        "eng_name": "Nakulugamuwa",
+        "sinhala_name": "නාකුළුගමුව",
+        "lat": 6.001619199999999,
+        "lon": 80.7241172
+    },
+    {
+        "id": 87,
+        "eng_name": "Nanuoya",
+        "sinhala_name": "නානුඔය",
+        "lat": 6.942349999999999,
+        "lon": 80.74372
+    },
+    {
+        "id": 234,
+        "eng_name": "Narahenpita",
+        "sinhala_name": "නාරාහේන්පිට",
+        "lat": 6.896949999999999,
+        "lon": 79.87787999999999
+    },
+    {
+        "id": 208,
+        "eng_name": "Nattandiya",
+        "sinhala_name": "නාත්තන්ඩිය",
+        "lat": 7.4143224,
+        "lon": 79.8660175
+    },
+    {
+        "id": 397,
+        "eng_name": "Navatkuli",
+        "sinhala_name": "නාවක්කුලිය",
+        "lat": 9.6617193,
+        "lon": 80.0813895
+    },
+    {
+        "id": 70,
+        "eng_name": "Nawalapitiya",
+        "sinhala_name": "නාවලපිටිය",
+        "lat": 7.056989199999999,
+        "lon": 80.53505799999999
+    },
+    {
+        "id": 239,
+        "eng_name": "Nawinna",
+        "sinhala_name": "නාවින්න",
+        "lat": 6.8528446,
+        "lon": 79.9178781
+    },
+    {
+        "id": 297,
+        "eng_name": "Negama",
+        "sinhala_name": "නෑගම",
+        "lat": 7.9811652,
+        "lon": 80.48709509999999
+    },
+    {
+        "id": 200,
+        "eng_name": "Negombo",
+        "sinhala_name": "මීගමුව",
+        "lat": 7.210421900000001,
+        "lon": 79.84189239999999
+    },
+    {
+        "id": 530,
+        "eng_name": "nelumpathgama",
+        "sinhala_name": "නෙළුම්පත්ගම",
+        "lat": 6.432939999999999,
+        "lon": 80.00025
+    },
+    {
+        "id": 211,
+        "eng_name": "Nelumpokuna",
+        "sinhala_name": "නෙළුම් පොකුණ",
+        "lat": 7.477001,
+        "lon": 79.8445934
+    },
+    {
+        "id": 339,
+        "eng_name": "Neriyakulam",
+        "sinhala_name": "නේරියකුලම",
+        "lat": 8.6145064,
+        "lon": 80.3621434
+    },
+    {
+        "id": 229,
+        "eng_name": "Noor Nagar",
+        "sinhala_name": "නූර්නගර්",
+        "lat": 8.0360366,
+        "lon": 79.8398016
+    },
+    {
+        "id": 236,
+        "eng_name": "Nugegoda",
+        "sinhala_name": "නුගේගොඩ",
+        "lat": 6.872100700000001,
+        "lon": 79.89100230000001
+    },
+    {
+        "id": 91,
+        "eng_name": "Ohiya",
+        "sinhala_name": "ඔහිය",
+        "lat": 6.817706299999999,
+        "lon": 80.84297289999999
+    },
+    {
+        "id": 380,
+        "eng_name": "Omanthai",
+        "sinhala_name": "ඕමන්තෙයි",
+        "lat": 8.8652702,
+        "lon": 80.5011928
+    },
+    {
+        "id": 539,
+        "eng_name": "Ottukulama",
+        "sinhala_name": "ඔට්ටුකුලම",
+        "lat": 7.7944016,
+        "lon": 80.005979
+    },
+    {
+        "id": 251,
+        "eng_name": "Padukka",
+        "sinhala_name": "පාදුක්ක",
+        "lat": 6.8427956,
+        "lon": 80.0911663
+    },
+    {
+        "id": 525,
+        "eng_name": "pahala waraddana",
+        "sinhala_name": "පහළ වරද්දාන",
+        "lat": 7.582712900000001,
+        "lon": 80.3575128
+    },
+    {
+        "id": 389,
+        "eng_name": "Palai",
+        "sinhala_name": "පලෙයි",
+        "lat": 9.6078587,
+        "lon": 80.33014299999999
+    },
+    {
+        "id": 226,
+        "eng_name": "Palavi",
+        "sinhala_name": "පාලවි",
+        "lat": 7.9812432,
+        "lon": 79.84648039999999
+    },
+    {
+        "id": 69,
+        "eng_name": "Pallegama",
+        "sinhala_name": "පල්ලේගම",
+        "lat": 7.0836273,
+        "lon": 80.5526342
+    },
+    {
+        "id": 277,
+        "eng_name": "Pallethalavinna",
+        "sinhala_name": "පල්ලේතලවින්න",
+        "lat": 7.3378922,
+        "lon": 80.6413651
+    },
+    {
+        "id": 29,
+        "eng_name": "Pallewala",
+        "sinhala_name": "පල්ලෙවෙල",
+        "lat": 7.198734599999999,
+        "lon": 80.09001020000001
+    },
+    {
+        "id": 303,
+        "eng_name": "Palugaswewa",
+        "sinhala_name": "පලුගස්වැව",
+        "lat": 8.0587494,
+        "lon": 80.71204259999999
+    },
+    {
+        "id": 119,
+        "eng_name": "Panadura",
+        "sinhala_name": "පානදුර",
+        "lat": 6.71238,
+        "lon": 79.90467
+    },
+    {
+        "id": 246,
+        "eng_name": "Panagoda",
+        "sinhala_name": "පනාගොඩ",
+        "lat": 6.8469352,
+        "lon": 80.0189906
+    },
+    {
+        "id": 42,
+        "eng_name": "Panaleeya",
+        "sinhala_name": "පනලිය",
+        "lat": 7.3286286,
+        "lon": 80.32509689999999
+    },
+    {
+        "id": 237,
+        "eng_name": "Pangiriwatta",
+        "sinhala_name": "පැඟිරිවත්‍ත",
+        "lat": 6.8651082,
+        "lon": 79.902164
+    },
+    {
+        "id": 241,
+        "eng_name": "Pannipitiya",
+        "sinhala_name": "පන්නිපිටිය",
+        "lat": 6.847192199999999,
+        "lon": 79.9489139
+    },
+    {
+        "id": 312,
+        "eng_name": "Parakum Uyana",
+        "sinhala_name": "පැරකුම්උයන",
+        "lat": 7.914966700000001,
+        "lon": 80.9983527
+    },
+    {
+        "id": 387,
+        "eng_name": "Paranthan",
+        "sinhala_name": "පරන්තන්",
+        "lat": 9.4402128,
+        "lon": 80.40714109999999
+    },
+    {
+        "id": 373,
+        "eng_name": "Parasangahawewa",
+        "sinhala_name": "පරසන්ගහවැව",
+        "lat": 8.445062,
+        "lon": 80.4315922
+    },
+    {
+        "id": 138,
+        "eng_name": "Pategamgoda",
+        "sinhala_name": "පාතෙගම්ගොඩ",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 283,
+        "eng_name": "Pathanpha",
+        "sinhala_name": "පතන්පහ",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 90,
+        "eng_name": "Pattipola",
+        "sinhala_name": "පට්ටිපොල",
+        "lat": 6.855845899999999,
+        "lon": 80.8306915
+    },
+    {
+        "id": 126,
+        "eng_name": "Payagala North",
+        "sinhala_name": "උතුරු පයාගල",
+        "lat": 6.531603899999999,
+        "lon": 79.9750346
+    },
+    {
+        "id": 127,
+        "eng_name": "Payagala South",
+        "sinhala_name": "දකුණු පයාගල",
+        "lat": 6.52168,
+        "lon": 79.97888999999999
+    },
+    {
+        "id": 74,
+        "eng_name": "Penrose",
+        "sinhala_name": "පෙන්රෝස්",
+        "lat": 6.9943404,
+        "lon": 80.5394036
+    },
+    {
+        "id": 57,
+        "eng_name": "Peradeniya",
+        "sinhala_name": "පේරාදෙණිය (කොළඹ ▶️ නුවර / නුවර ▶️ කොළඹ)",
+        "lat": 7.257452700000001,
+        "lon": 80.5902036
+    },
+    {
+        "id": 410,
+        "eng_name": "peradeniya",
+        "sinhala_name": "පේරාදෙණිය (නුවර ▶️ බදුල්ල / බදුල්ල ▶️ නුවර)",
+        "lat": 7.257452700000001,
+        "lon": 80.5902036
+    },
+    {
+        "id": 88,
+        "eng_name": "Perakumpura",
+        "sinhala_name": "පැරකුම්පුර",
+        "lat": 8.1528551,
+        "lon": 80.1456496
+    },
+    {
+        "id": 188,
+        "eng_name": "Peralanda",
+        "sinhala_name": "පේරලන්ද",
+        "lat": 7.0380125,
+        "lon": 79.91236210000001
+    },
+    {
+        "id": 347,
+        "eng_name": "Pesalai",
+        "sinhala_name": "පේසාලේ",
+        "lat": 9.082704699999999,
+        "lon": 79.8224528
+    },
+    {
+        "id": 173,
+        "eng_name": "Piladuwa",
+        "sinhala_name": "පිලදුව",
+        "lat": 5.95366,
+        "lon": 80.55669
+    },
+    {
+        "id": 55,
+        "eng_name": "Pilimatalawa",
+        "sinhala_name": "පිළිමතලාව",
+        "lat": 7.26689,
+        "lon": 80.5526215
+    },
+    {
+        "id": 528,
+        "eng_name": "pinnagolla",
+        "sinhala_name": "පින්නගොල්ල",
+        "lat": 7.6107563,
+        "lon": 80.3463053
+    },
+    {
+        "id": 255,
+        "eng_name": "Pinnawala",
+        "sinhala_name": "පින්නවල",
+        "lat": 7.3002859,
+        "lon": 80.3864194
+    },
+    {
+        "id": 120,
+        "eng_name": "Pinwatte",
+        "sinhala_name": "පින්වත්ත",
+        "lat": 6.685950399999999,
+        "lon": 79.9159938
+    },
+    {
+        "id": 155,
+        "eng_name": "Piyadigama",
+        "sinhala_name": "පියදිගම",
+        "lat": 6.0568572,
+        "lon": 80.18890139999999
+    },
+    {
+        "id": 136,
+        "eng_name": "Piyagama",
+        "sinhala_name": "පියගම",
+        "lat": 6.327495,
+        "lon": 80.0340781
+    },
+    {
+        "id": 60,
+        "eng_name": "Polgaha anga",
+        "sinhala_name": "පොල්ගහ අංඟ",
+        "lat": 7.2007327,
+        "lon": 80.5985441
+    },
+    {
+        "id": 41,
+        "eng_name": "Polgahawela",
+        "sinhala_name": "පොල්ගහවෙල හන්දිය",
+        "lat": 7.331019999999999,
+        "lon": 80.30098
+    },
+    {
+        "id": 313,
+        "eng_name": "Polonnaruwa",
+        "sinhala_name": "පොළොන්නරුව",
+        "lat": 7.930499,
+        "lon": 81.0333654
+    },
+    {
+        "id": 168,
+        "eng_name": "Polwathumodara",
+        "sinhala_name": "පොල්වතුමෝදර",
+        "lat": 5.964242899999999,
+        "lon": 80.45740839999999
+    },
+    {
+        "id": 376,
+        "eng_name": "Poonewa",
+        "sinhala_name": "පූනෑව",
+        "lat": 8.602087299999999,
+        "lon": 80.4715866
+    },
+    {
+        "id": 526,
+        "eng_name": "porapola",
+        "sinhala_name": "පොරපොල",
+        "lat": 7.589225799999999,
+        "lon": 80.3530021
+    },
+    {
+        "id": 527,
+        "eng_name": "porapola junction",
+        "sinhala_name": "පොරපොල හන්දිය",
+        "lat": 7.589225799999999,
+        "lon": 80.3530021
+    },
+    {
+        "id": 352,
+        "eng_name": "Potuhera",
+        "sinhala_name": "පොතුහැර",
+        "lat": 7.419754699999999,
+        "lon": 80.32741349999999
+    },
+    {
+        "id": 221,
+        "eng_name": "Pulachchikulam",
+        "sinhala_name": "පුලිච්චාකුලම",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 381,
+        "eng_name": "Puliyankulam",
+        "sinhala_name": "පුලියංකුලම",
+        "lat": 8.9598477,
+        "lon": 80.5223608
+    },
+    {
+        "id": 540,
+        "eng_name": "Puliyankulama",
+        "sinhala_name": "පුලියංකුලම",
+        "lat": 8.9598477,
+        "lon": 80.5223608
+    },
+    {
+        "id": 321,
+        "eng_name": "Punani",
+        "sinhala_name": "පූනානි",
+        "lat": 7.9636603,
+        "lon": 81.3872311
+    },
+    {
+        "id": 398,
+        "eng_name": "Punkankulam",
+        "sinhala_name": "පුන්කන්කුලම",
+        "lat": 9.6569788,
+        "lon": 80.03749599999999
+    },
+    {
+        "id": 228,
+        "eng_name": "Puttalam",
+        "sinhala_name": "පුත්තලම",
+        "lat": 8.0226826,
+        "lon": 79.8378718
+    },
+    {
+        "id": 265,
+        "eng_name": "Puwakpitiya",
+        "sinhala_name": "පුවක්පිටිය",
+        "lat": 6.934002599999999,
+        "lon": 80.18742569999999
+    },
+    {
+        "id": 266,
+        "eng_name": "Puwakpitiya town",
+        "sinhala_name": "පුවක්පිටිය නගරය",
+        "lat": 6.938181699999999,
+        "lon": 80.19299280000001
+    },
+    {
+        "id": 86,
+        "eng_name": "Radella",
+        "sinhala_name": "රදැල්ල",
+        "lat": 6.944739999999999,
+        "lon": 80.71672
+    },
+    {
+        "id": 15,
+        "eng_name": "Ragama",
+        "sinhala_name": "රාගම හන්දිය",
+        "lat": 7.0300132,
+        "lon": 79.92143329999999
+    },
+    {
+        "id": 513,
+        "eng_name": "Rajawaththa",
+        "sinhala_name": "රජවත්ත",
+        "lat": 6.9135286,
+        "lon": 79.9408806
+    },
+    {
+        "id": 514,
+        "eng_name": "Rajawaththa",
+        "sinhala_name": "රජවත්ත",
+        "lat": 6.9135286,
+        "lon": 79.9408806
+    },
+    {
+        "id": 46,
+        "eng_name": "Rambukkana",
+        "sinhala_name": "රඹුක්කන",
+        "lat": 7.3212983,
+        "lon": 80.390238
+    },
+    {
+        "id": 294,
+        "eng_name": "Ranamukgama",
+        "sinhala_name": "රනමුක්ගම",
+        "lat": 7.878718999999999,
+        "lon": 80.39511279999999
+    },
+    {
+        "id": 362,
+        "eng_name": "Randenigama",
+        "sinhala_name": "රන්දෙනිගම",
+        "lat": 7.848491800000001,
+        "lon": 80.25930579999999
+    },
+    {
+        "id": 152,
+        "eng_name": "Rathgama",
+        "sinhala_name": "රජ්ගම",
+        "lat": 6.0936187,
+        "lon": 80.1430542
+    },
+    {
+        "id": 113,
+        "eng_name": "Ratmalana",
+        "sinhala_name": "රත්මලාන",
+        "lat": 6.8195453,
+        "lon": 79.8800832
+    },
+    {
+        "id": 512,
+        "eng_name": "Rendals hil",
+        "sinhala_name": "රැන්ඩල්ස් හිල්",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 515,
+        "eng_name": "Rendals hil",
+        "sinhala_name": "රැන්ඩල්ස් හිල්",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 156,
+        "eng_name": "Richmond Hill",
+        "sinhala_name": "රිච්මන්ඩ් කන්ද",
+        "lat": 6.0538935,
+        "lon": 80.20468939999999
+    },
+    {
+        "id": 320,
+        "eng_name": "Rideethenna",
+        "sinhala_name": "රිදීතැන්න",
+        "lat": 7.9638333,
+        "lon": 81.3394029
+    },
+    {
+        "id": 79,
+        "eng_name": "Rosella",
+        "sinhala_name": "රොසැල්ල",
+        "lat": 6.934819399999999,
+        "lon": 80.5588818
+    },
+    {
+        "id": 372,
+        "eng_name": "Saliyapura",
+        "sinhala_name": "සාලියපුර",
+        "lat": 8.3898916,
+        "lon": 80.4222929
+    },
+    {
+        "id": 518,
+        "eng_name": "samagipura",
+        "sinhala_name": "සමගිපුර",
+        "lat": 8.3577709,
+        "lon": 80.4414607
+    },
+    {
+        "id": 394,
+        "eng_name": "Sankaththanai",
+        "sinhala_name": "සංකත්තානේ",
+        "lat": 9.6644795,
+        "lon": 80.1701452
+    },
+    {
+        "id": 409,
+        "eng_name": "Sarasaviuyana",
+        "sinhala_name": "සරසවි උයන (නුවර ▶️ බදුල්ල / බදුල්ල ▶️ නුවර)",
+        "lat": 7.260023500000001,
+        "lon": 80.5965547
+    },
+    {
+        "id": 270,
+        "eng_name": "Sarasaviuyana",
+        "sinhala_name": "සරසවි උයන (කොළඹ ▶️ නුවර / නුවර ▶️ කොළඹ)",
+        "lat": 7.260023500000001,
+        "lon": 80.5965547
+    },
+    {
+        "id": 214,
+        "eng_name": "Sawarana",
+        "sinhala_name": "සවරාන",
+        "lat": 7.5582049,
+        "lon": 79.8089036
+    },
+    {
+        "id": 106,
+        "eng_name": "Secretartat Halt",
+        "sinhala_name": "මහලේකම් කාර්යාලය",
+        "lat": 6.93199,
+        "lon": 79.84611
+    },
+    {
+        "id": 195,
+        "eng_name": "Seeduwa",
+        "sinhala_name": "සීදූව",
+        "lat": 7.128940099999999,
+        "lon": 79.8824662
+    },
+    {
+        "id": 147,
+        "eng_name": "Seenigama",
+        "sinhala_name": "සීනිගම",
+        "lat": 6.1586598,
+        "lon": 80.0947624
+    },
+    {
+        "id": 550,
+        "eng_name": "Selam",
+        "sinhala_name": "සේලම් *",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 365,
+        "eng_name": "Senarathgama",
+        "sinhala_name": "සෙනරත්ගම",
+        "lat": 8.0858141,
+        "lon": 80.2777186
+    },
+    {
+        "id": 317,
+        "eng_name": "Sevanapitiya",
+        "sinhala_name": "සෙවනපිටිය",
+        "lat": 7.9251687,
+        "lon": 81.1582112
+    },
+    {
+        "id": 326,
+        "eng_name": "Sittankudi",
+        "sinhala_name": "සිට්ටන්කුඩි",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 543,
+        "eng_name": "Siyabalagaswewa",
+        "sinhala_name": "සියඹලගහවැව",
+        "lat": 6.3541667,
+        "lon": 81.3366667
+    },
+    {
+        "id": 296,
+        "eng_name": "Siyalangamuwa",
+        "sinhala_name": "සියඹලන්ගමුව",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 368,
+        "eng_name": "Srawasthipura",
+        "sinhala_name": "ශ්‍රාවස්ථිපුර",
+        "lat": 8.29881,
+        "lon": 80.37707
+    },
+    {
+        "id": 553,
+        "eng_name": "St kylas",
+        "sinhala_name": "සෙන්ට් ක්ලෙයා(ර්)",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 511,
+        "eng_name": "Suduhumpola",
+        "sinhala_name": "සුදුහුම්පොල",
+        "lat": 7.2818472,
+        "lon": 80.6250601
+    },
+    {
+        "id": 516,
+        "eng_name": "Suduhumpola",
+        "sinhala_name": "සුදුහුම්පොල",
+        "lat": 7.2818472,
+        "lon": 80.6250601
+    },
+    {
+        "id": 367,
+        "eng_name": "Talawa",
+        "sinhala_name": "තලාව",
+        "lat": 8.2365189,
+        "lon": 80.35077299999999
+    },
+    {
+        "id": 82,
+        "eng_name": "Talawakele",
+        "sinhala_name": "තලවාකැලේ",
+        "lat": 6.9400593,
+        "lon": 80.6610578
+    },
+    {
+        "id": 351,
+        "eng_name": "Talawattegedara",
+        "sinhala_name": "තලවත්තේගෙදර",
+        "lat": 7.387902,
+        "lon": 80.3014809
+    },
+    {
+        "id": 405,
+        "eng_name": "Tellippalai",
+        "sinhala_name": "තෙලිප්පලේ",
+        "lat": 9.784939999999999,
+        "lon": 80.03514
+    },
+    {
+        "id": 146,
+        "eng_name": "Telwatte",
+        "sinhala_name": "තෙල්වත්ත",
+        "lat": 6.169107599999999,
+        "lon": 80.0889963
+    },
+    {
+        "id": 66,
+        "eng_name": "Tembligala",
+        "sinhala_name": "තැඹිලිගල",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 396,
+        "eng_name": "Thachanthoppu",
+        "sinhala_name": "තාචන්තෝප්පු",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 348,
+        "eng_name": "Thalaimannar",
+        "sinhala_name": "තලේමන්නාරම",
+        "lat": 9.090022,
+        "lon": 79.7353431
+    },
+    {
+        "id": 349,
+        "eng_name": "Thalaimannar Pier",
+        "sinhala_name": "තලේමන්නාරම් තොට",
+        "lat": 9.105974,
+        "lon": 79.7301221
+    },
+    {
+        "id": 160,
+        "eng_name": "Thalpe",
+        "sinhala_name": "තල්පෙ",
+        "lat": 5.9983058,
+        "lon": 80.28018279999999
+    },
+    {
+        "id": 531,
+        "eng_name": "thambagamuwa",
+        "sinhala_name": "තම්බගමුව",
+        "lat": 8.4984498,
+        "lon": 81.09546569999999
+    },
+    {
+        "id": 335,
+        "eng_name": "Thambalagamuwa",
+        "sinhala_name": "තඹලගමුව",
+        "lat": 8.4984498,
+        "lon": 81.09546569999999
+    },
+    {
+        "id": 366,
+        "eng_name": "Thambuttegama",
+        "sinhala_name": "තඹුත්තේගම",
+        "lat": 8.1543233,
+        "lon": 80.3038466
+    },
+    {
+        "id": 379,
+        "eng_name": "Thandikulama",
+        "sinhala_name": "තාණ්ඩිකුලම",
+        "lat": 8.7783345,
+        "lon": 80.4848957
+    },
+    {
+        "id": 287,
+        "eng_name": "Thavalankoya",
+        "sinhala_name": "තවලංකොය",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 227,
+        "eng_name": "Thil adiya",
+        "sinhala_name": "තිල් අඩිය",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 149,
+        "eng_name": "Thiranagama",
+        "sinhala_name": "තිරාණගම",
+        "lat": 6.1250994,
+        "lon": 80.1218693
+    },
+    {
+        "id": 344,
+        "eng_name": "Thiruketheeswaram",
+        "sinhala_name": "තිරුකේස්වරම්",
+        "lat": 8.9107566,
+        "lon": 79.9519054
+    },
+    {
+        "id": 346,
+        "eng_name": "Thoddaveli",
+        "sinhala_name": "තොඩ්ඩවේලි",
+        "lat": 9.025320599999999,
+        "lon": 79.86732740000001
+    },
+    {
+        "id": 192,
+        "eng_name": "Thudella",
+        "sinhala_name": "තුඩැල්ල",
+        "lat": 7.0929636,
+        "lon": 79.8909473
+    },
+    {
+        "id": 523,
+        "eng_name": "thuruliyagama",
+        "sinhala_name": "තුරුලියගම",
+        "lat": 7.4817695,
+        "lon": 80.3608876
+    },
+    {
+        "id": 360,
+        "eng_name": "Timbiriyagedara",
+        "sinhala_name": "තිඹිරියාගෙදර",
+        "lat": 7.7813631,
+        "lon": 80.2977633
+    },
+    {
+        "id": 43,
+        "eng_name": "Tismalpola",
+        "sinhala_name": "තිස්මල්පොල",
+        "lat": 7.32161,
+        "lon": 80.34286999999999
+    },
+    {
+        "id": 122,
+        "eng_name": "Train Halt 01",
+        "sinhala_name": "දුම්රිය නැවතුම අංක 01",
+        "lat": 6.632533599999999,
+        "lon": 79.9403282
+    },
+    {
+        "id": 337,
+        "eng_name": "Trincomalee",
+        "sinhala_name": "ත්‍රිකුණාමලය",
+        "lat": 8.5844423,
+        "lon": 81.22615189999999
+    },
+    {
+        "id": 207,
+        "eng_name": "Tummodara",
+        "sinhala_name": "තුම්මෝදර",
+        "lat": 7.390442200000001,
+        "lon": 79.85897
+    },
+    {
+        "id": 238,
+        "eng_name": "Udahamulla",
+        "sinhala_name": "උඩහමුල්ල",
+        "lat": 6.8622291,
+        "lon": 79.90879609999999
+    },
+    {
+        "id": 278,
+        "eng_name": "Udatalawinna",
+        "sinhala_name": "උඩතලවින්න",
+        "lat": 7.339515,
+        "lon": 80.6512812
+    },
+    {
+        "id": 285,
+        "eng_name": "Udaththawala",
+        "sinhala_name": "උඩත්තාවල",
+        "lat": 7.411579999999999,
+        "lon": 80.64215999999999
+    },
+    {
+        "id": 532,
+        "eng_name": "udugodapola",
+        "sinhala_name": "උඩුගොඩපොල",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 102,
+        "eng_name": "Uduwara",
+        "sinhala_name": "උඩුවර",
+        "lat": 6.931507099999999,
+        "lon": 81.0421193
+    },
+    {
+        "id": 254,
+        "eng_name": "Uggalla",
+        "sinhala_name": "උග්ගල්ල",
+        "lat": 6.858881999999999,
+        "lon": 80.1177335
+    },
+    {
+        "id": 286,
+        "eng_name": "Ukuwela",
+        "sinhala_name": "උකුවෙල",
+        "lat": 7.420392599999999,
+        "lon": 80.6341588
+    },
+    {
+        "id": 68,
+        "eng_name": "Ulapane",
+        "sinhala_name": "උලපනේ",
+        "lat": 7.108371399999999,
+        "lon": 80.5597196
+    },
+    {
+        "id": 159,
+        "eng_name": "Unawatuna",
+        "sinhala_name": "උණවටුන",
+        "lat": 6.0219615,
+        "lon": 80.2491456
+    },
+    {
+        "id": 547,
+        "eng_name": "urapola",
+        "sinhala_name": "ඌරපොල",
+        "lat": 7.0980424,
+        "lon": 80.1449906
+    },
+    {
+        "id": 533,
+        "eng_name": "uyangolla",
+        "sinhala_name": "උයන්ගල්ල",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 323,
+        "eng_name": "Valachchenei",
+        "sinhala_name": "වාලච්චේන",
+        "lat": 7.9102777,
+        "lon": 81.5318128
+    },
+    {
+        "id": 327,
+        "eng_name": "Vandaramullai",
+        "sinhala_name": "වන්දාරමුල්ල",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 378,
+        "eng_name": "Vavuniya",
+        "sinhala_name": "වවුනියාව",
+        "lat": 8.7537264,
+        "lon": 80.4936176
+    },
+    {
+        "id": 26,
+        "eng_name": "Veyangoda",
+        "sinhala_name": "වේයන්ගොඩ",
+        "lat": 7.152810199999999,
+        "lon": 80.05864
+    },
+    {
+        "id": 544,
+        "eng_name": "Viralmarippuwa",
+        "sinhala_name": "විරල්මරිප්පුව",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 121,
+        "eng_name": "Wadduwa",
+        "sinhala_name": "වාද්දුව",
+        "lat": 6.6627573,
+        "lon": 79.9285841
+    },
+    {
+        "id": 258,
+        "eng_name": "Waga",
+        "sinhala_name": "වග",
+        "lat": 6.901008699999999,
+        "lon": 80.1270837
+    },
+    {
+        "id": 203,
+        "eng_name": "Waikkala",
+        "sinhala_name": "වයික්කාල",
+        "lat": 7.277383599999999,
+        "lon": 79.86019309999999
+    },
+    {
+        "id": 209,
+        "eng_name": "Walahapitiya",
+        "sinhala_name": "වලහපිටිය",
+        "lat": 7.4394672,
+        "lon": 79.85914439999999
+    },
+    {
+        "id": 40,
+        "eng_name": "Walakumbura",
+        "sinhala_name": "වලකුඹුර",
+        "lat": 7.313848600000001,
+        "lon": 80.26908259999999
+    },
+    {
+        "id": 538,
+        "eng_name": "Walaswewa",
+        "sinhala_name": "වලස්වැව",
+        "lat": 8.035890799999999,
+        "lon": 80.3268812
+    },
+    {
+        "id": 171,
+        "eng_name": "Walgama",
+        "sinhala_name": "වල්ගම",
+        "lat": 5.9454007,
+        "lon": 80.5141908
+    },
+    {
+        "id": 65,
+        "eng_name": "Wallahagoda",
+        "sinhala_name": "වල්ලහගොඩ",
+        "lat": 7.1451802,
+        "lon": 80.5616283
+    },
+    {
+        "id": 16,
+        "eng_name": "Walpola",
+        "sinhala_name": "වල්පොල",
+        "lat": 7.047149999999999,
+        "lon": 79.93110999999999
+    },
+    {
+        "id": 11,
+        "eng_name": "Wanawasala",
+        "sinhala_name": "වනවාසල",
+        "lat": 6.975709999999999,
+        "lon": 79.89923
+    },
+    {
+        "id": 27,
+        "eng_name": "Wandurawa",
+        "sinhala_name": "වදුරව",
+        "lat": 7.167609700000001,
+        "lon": 80.06606339999999
+    },
+    {
+        "id": 67,
+        "eng_name": "Warakapitiya",
+        "sinhala_name": "වරකාපිටිය",
+        "lat": 7.1246339,
+        "lon": 80.55831309999999
+    },
+    {
+        "id": 549,
+        "eng_name": "warakawa",
+        "sinhala_name": "වරකාව",
+        "lat": 7.074166,
+        "lon": 80.5408283
+    },
+    {
+        "id": 84,
+        "eng_name": "Watagoda",
+        "sinhala_name": "වටගොඩ",
+        "lat": 6.9689845,
+        "lon": 80.65287169999999
+    },
+    {
+        "id": 249,
+        "eng_name": "Wataraka",
+        "sinhala_name": "වටරැක",
+        "lat": 6.8431563,
+        "lon": 80.0600164
+    },
+    {
+        "id": 77,
+        "eng_name": "Watawala",
+        "sinhala_name": "වටවල",
+        "lat": 6.961998299999999,
+        "lon": 80.5260086
+    },
+    {
+        "id": 281,
+        "eng_name": "Wattegama",
+        "sinhala_name": "වත්තේගම",
+        "lat": 7.3505608,
+        "lon": 80.68258759999999
+    },
+    {
+        "id": 174,
+        "eng_name": "Weherahena",
+        "sinhala_name": "වෙහෙරහේන",
+        "lat": 5.9570937,
+        "lon": 80.57790609999999
+    },
+    {
+        "id": 61,
+        "eng_name": "Weligalla",
+        "sinhala_name": "වැලිගල්ල",
+        "lat": 7.1889418,
+        "lon": 80.5930611
+    },
+    {
+        "id": 167,
+        "eng_name": "Weligama",
+        "sinhala_name": "වැලිගම",
+        "lat": 5.975639999999999,
+        "lon": 80.42963
+    },
+    {
+        "id": 318,
+        "eng_name": "Welikanda",
+        "sinhala_name": "වැලිකන්ද",
+        "lat": 7.947087600000001,
+        "lon": 81.2504335
+    },
+    {
+        "id": 356,
+        "eng_name": "Wellawa",
+        "sinhala_name": "වැල්ලව",
+        "lat": 7.558599800000001,
+        "lon": 80.3667498
+    },
+    {
+        "id": 110,
+        "eng_name": "Wellawatta",
+        "sinhala_name": "වැල්ලවත්ත",
+        "lat": 6.874752,
+        "lon": 79.85750639999999
+    },
+    {
+        "id": 534,
+        "eng_name": "Weragala",
+        "sinhala_name": "වේරගල",
+        "lat": 6.827248,
+        "lon": 80.1233175
+    },
+    {
+        "id": 53,
+        "eng_name": "Weralugolla",
+        "sinhala_name": "වෙරළුගොල්ල *",
+        "lat": 7.243389000000001,
+        "lon": 80.4263562
+    },
+    {
+        "id": 552,
+        "eng_name": "Wewelthalawa",
+        "sinhala_name": "වේවැල්තලාව",
+        "lat": 7.0557704,
+        "lon": 80.3792462
+    },
+    {
+        "id": 177,
+        "eng_name": "Wewurukannala",
+        "sinhala_name": "වැවුරුකන්නල",
+        "lat": 5.979314899999999,
+        "lon": 80.6974233
+    },
+    {
+        "id": 31,
+        "eng_name": "Wijayarajadahana",
+        "sinhala_name": "විජය රජදහන",
+        "lat": 7.2307634,
+        "lon": 80.118512
+    },
+    {
+        "id": 33,
+        "eng_name": "Wilwatte",
+        "sinhala_name": "විල්වත්ත",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 20,
+        "eng_name": "Yagoda",
+        "sinhala_name": "යාගොඩ",
+        "lat": 7.0746951,
+        "lon": 79.97384939999999
+    },
+    {
+        "id": 292,
+        "eng_name": "Yapahuwa",
+        "sinhala_name": "යාපහුව",
+        "lat": 7.829284299999999,
+        "lon": 80.30135469999999
+    },
+    {
+        "id": 44,
+        "eng_name": "Yatagama",
+        "sinhala_name": "යටගම",
+        "lat": 7.3184986,
+        "lon": 80.3643465
+    },
+    {
+        "id": 282,
+        "eng_name": "Yatawara",
+        "sinhala_name": "යටවර",
+        "lat": 7.365040500000001,
+        "lon": 80.6698954
+    },
+    {
+        "id": 280,
+        "eng_name": "Yatirawana",
+        "sinhala_name": "යටිරාවණ",
+        "lat": 7.3396002,
+        "lon": 80.675692
+    },
+    {
+        "id": 48,
+        "eng_name": "Yatiweldeniya",
+        "sinhala_name": "යටිවැල්දෙණිය *",
+        "lat": 7.873053999999999,
+        "lon": 80.77179699999999
+    },
+    {
+        "id": 37,
+        "eng_name": "Yattalgoda",
+        "sinhala_name": "යත්තල්ගොඩ",
+        "lat": 7.2705441,
+        "lon": 80.194403
+    }
+]
