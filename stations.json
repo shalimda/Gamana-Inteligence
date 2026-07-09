@@ -1,0 +1,4282 @@
+[
+  {
+    "Code": "BEL",
+    "Name": "Beliaththa",
+    "Sinhala": "බෙලිඅත්ත ",
+    "TS_Id": "178",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.042146,
+    "Lon": 80.73727099999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "NKG",
+    "Name": "Nakulugamuwa",
+    "Sinhala": "නාකුළුගමුව",
+    "TS_Id": "501",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.001619199999999,
+    "Lon": 80.7241172,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WEW",
+    "Name": "Wewurukannala",
+    "Sinhala": "වැවුරුකන්නල ",
+    "TS_Id": "177",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.979314899999999,
+    "Lon": 80.6974233,
+    "Type": "Main"
+  },
+  {
+    "Code": "BAM",
+    "Name": "Bambaranda",
+    "Sinhala": "බඹරැන්ද",
+    "TS_Id": "176",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.9704384,
+    "Lon": 80.6600795,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KEK",
+    "Name": "Kakanadura",
+    "Sinhala": "කැකණදුර ",
+    "TS_Id": "175",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.9605627,
+    "Lon": 80.5989747,
+    "Type": "Main"
+  },
+  {
+    "Code": "WEH",
+    "Name": "Weherahena",
+    "Sinhala": "වෙහෙරහේන ",
+    "TS_Id": "174",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.9570937,
+    "Lon": 80.57790609999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PLD",
+    "Name": "Piladuwa",
+    "Sinhala": "පිලදුව ",
+    "TS_Id": "173",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.95366,
+    "Lon": 80.55669,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MTR",
+    "Name": "Matara",
+    "Sinhala": "මාතර ",
+    "TS_Id": "172",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.9518,
+    "Lon": 80.54352,
+    "Type": "Main"
+  },
+  {
+    "Code": "WLG",
+    "Name": "Walgama",
+    "Sinhala": "වල්ගම ",
+    "TS_Id": "171",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.9454007,
+    "Lon": 80.5141908,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KMG",
+    "Name": "Kamburugamuwa",
+    "Sinhala": "කඹුරුගමුව ",
+    "TS_Id": "170",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.941090200000001,
+    "Lon": 80.4943382,
+    "Type": "Main"
+  },
+  {
+    "Code": "MIS",
+    "Name": "Mirissa",
+    "Sinhala": "මිරිස්ස ",
+    "TS_Id": "169",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.956849999999999,
+    "Lon": 80.47337999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PLR",
+    "Name": "Polwathumodara",
+    "Sinhala": "පොල්වතුමෝදර ",
+    "TS_Id": "168",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.964242899999999,
+    "Lon": 80.45740839999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WLM",
+    "Name": "Weligama",
+    "Sinhala": "වැලිගම ",
+    "TS_Id": "167",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.975639999999999,
+    "Lon": 80.42963,
+    "Type": "Main"
+  },
+  {
+    "Code": "KMB",
+    "Name": "Kumbalgama",
+    "Sinhala": "කුඹල්ගම ",
+    "TS_Id": "166",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.96362,
+    "Lon": 80.40966999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MED",
+    "Name": "Midigama",
+    "Sinhala": "මිදිගම ",
+    "TS_Id": "165",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.9653228,
+    "Lon": 80.3913144,
+    "Type": "Sub"
+  },
+  {
+    "Code": "ANM",
+    "Name": "Ahangama",
+    "Sinhala": "අහංගම ",
+    "TS_Id": "164",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.973147099999999,
+    "Lon": 80.36382309999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "KTL",
+    "Name": "Kathaluwa",
+    "Sinhala": "කතළුව ",
+    "TS_Id": "163",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.9825811,
+    "Lon": 80.3403381,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KOG",
+    "Name": "Koggala",
+    "Sinhala": "කොග්ගල ",
+    "TS_Id": "162",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.9859583,
+    "Lon": 80.3316665,
+    "Type": "Sub"
+  },
+  {
+    "Code": "HBD",
+    "Name": "Habaraduwa",
+    "Sinhala": "හබරාදු​ව ",
+    "TS_Id": "161",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.9940517,
+    "Lon": 80.3072959,
+    "Type": "Sub"
+  },
+  {
+    "Code": "TLP",
+    "Name": "Thalpe",
+    "Sinhala": "තල්පෙ ",
+    "TS_Id": "160",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 5.9983058,
+    "Lon": 80.28018279999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "UNW",
+    "Name": "Unawatuna",
+    "Sinhala": "උණවටුන ",
+    "TS_Id": "159",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.0219615,
+    "Lon": 80.2491456,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KUG",
+    "Name": "Katugoda",
+    "Sinhala": "කටුගොඩ ",
+    "TS_Id": "158",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.03267,
+    "Lon": 80.24013000000001,
+    "Type": "Sub"
+  },
+  {
+    "Code": "GLE",
+    "Name": "Galle",
+    "Sinhala": "ගාල්ල ",
+    "TS_Id": "157",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.0333459,
+    "Lon": 80.2143601,
+    "Type": "Main"
+  },
+  {
+    "Code": "RCH",
+    "Name": "Richmond Hill",
+    "Sinhala": "රිච්මන්ඩ් කන්ද",
+    "TS_Id": "156",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.0538935,
+    "Lon": 80.20468939999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PGM",
+    "Name": "Piyadigama",
+    "Sinhala": "පියදිගම ",
+    "TS_Id": "155",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.0568572,
+    "Lon": 80.18890139999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "GNT",
+    "Name": "Ginthota",
+    "Sinhala": "ගිංතොට ",
+    "TS_Id": "154",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.060698899999999,
+    "Lon": 80.1793841,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BSH",
+    "Name": "Boossa",
+    "Sinhala": "බූස්ස ",
+    "TS_Id": "153",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.0889494,
+    "Lon": 80.1560648,
+    "Type": "Sub"
+  },
+  {
+    "Code": "RTG",
+    "Name": "Rathgama",
+    "Sinhala": "රජ්ගම ",
+    "TS_Id": "152",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.0936187,
+    "Lon": 80.1430542,
+    "Type": "Sub"
+  },
+  {
+    "Code": "DNA",
+    "Name": "Dodanduwa",
+    "Sinhala": "දොඩන්දු​ව ",
+    "TS_Id": "151",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.0982147,
+    "Lon": 80.1328558,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KMK",
+    "Name": "Kumarakanda",
+    "Sinhala": "කුමාරකන්ද",
+    "TS_Id": "150",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.112369999999999,
+    "Lon": 80.12425999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "TNA",
+    "Name": "Thiranagama",
+    "Sinhala": "තිරාණගම ",
+    "TS_Id": "149",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.1250994,
+    "Lon": 80.1218693,
+    "Type": "Sub"
+  },
+  {
+    "Code": "HKD",
+    "Name": "Hikkaduwa",
+    "Sinhala": "හික්කඩුව ",
+    "TS_Id": "148",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.142173499999999,
+    "Lon": 80.1000845,
+    "Type": "Main"
+  },
+  {
+    "Code": "SMA",
+    "Name": "Seenigama",
+    "Sinhala": "සීනිගම ",
+    "TS_Id": "147",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.1586598,
+    "Lon": 80.0947624,
+    "Type": "Sub"
+  },
+  {
+    "Code": "TWT",
+    "Name": "Telwatte",
+    "Sinhala": "තෙල්වත්ත ",
+    "TS_Id": "146",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.169107599999999,
+    "Lon": 80.0889963,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KWE",
+    "Name": "Kahawa",
+    "Sinhala": "කහව",
+    "TS_Id": "145",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.183184799999999,
+    "Lon": 80.0739732,
+    "Type": "Sub"
+  },
+  {
+    "Code": "AKU",
+    "Name": "Akurala",
+    "Sinhala": "අකුරළ ",
+    "TS_Id": "144",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.192056600000001,
+    "Lon": 80.0648913,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MPA",
+    "Name": "Madampagama",
+    "Sinhala": "මාදම්පාගම ",
+    "TS_Id": "143",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.2168167,
+    "Lon": 80.0671211,
+    "Type": "Sub"
+  },
+  {
+    "Code": "ABA",
+    "Name": "Ambalangoda",
+    "Sinhala": "අම්බලන්ගොඩ ",
+    "TS_Id": "142",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.2352678,
+    "Lon": 80.05498759999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "KGD",
+    "Name": "Kandegoda",
+    "Sinhala": "කන්දෙගොඩ ",
+    "TS_Id": "141",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.2501311,
+    "Lon": 80.0529554,
+    "Type": "Sub"
+  },
+  {
+    "Code": "AND",
+    "Name": "Andadola",
+    "Sinhala": "ආඳාදොළ ",
+    "TS_Id": "140",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.2660884,
+    "Lon": 80.0469956,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BPA",
+    "Name": "Balapitiya",
+    "Sinhala": "බලපිටිය ",
+    "TS_Id": "139",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.276649099999999,
+    "Lon": 80.04341749999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PGD",
+    "Name": "Pategamgoda",
+    "Sinhala": "පාතෙගම්ගොඩ ",
+    "TS_Id": "138",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "AUH",
+    "Name": "Ahungalle",
+    "Sinhala": "අහුන්ගල්ල ",
+    "TS_Id": "137",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.312661899999999,
+    "Lon": 80.03764,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PYA",
+    "Name": "Piyagama",
+    "Sinhala": "පියගම ",
+    "TS_Id": "136",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.327495,
+    "Lon": 80.0340781,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KDA",
+    "Name": "Kosgoda",
+    "Sinhala": "කොස්ගොඩ ",
+    "TS_Id": "135",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.338439999999999,
+    "Lon": 80.02946,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MWA",
+    "Name": "Maha Induruwa",
+    "Sinhala": "මහ ඉඳුරුව",
+    "TS_Id": "134",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.3642294,
+    "Lon": 80.014101,
+    "Type": "Sub"
+  },
+  {
+    "Code": "IDA",
+    "Name": "Induruwa",
+    "Sinhala": "ඉඳුරුව ",
+    "TS_Id": "133",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.387497600000001,
+    "Lon": 80.00863729999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BNT",
+    "Name": "Bentota",
+    "Sinhala": "බෙන්තොට ",
+    "TS_Id": "132",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.422187999999999,
+    "Lon": 79.99665879999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "ALT",
+    "Name": "Aluthgama",
+    "Sinhala": "අළුත්ගම ",
+    "TS_Id": "131",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.432939999999999,
+    "Lon": 80.00025,
+    "Type": "Main"
+  },
+  {
+    "Code": "HML",
+    "Name": "Hettimulla",
+    "Sinhala": "හෙට්ටිමුල්ල ",
+    "TS_Id": "130",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.458069999999999,
+    "Lon": 79.99077,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BRL",
+    "Name": "Beruwala",
+    "Sinhala": "බේරුවල ",
+    "TS_Id": "129",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.4769735,
+    "Lon": 79.9836388,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MGN",
+    "Name": "Maggona",
+    "Sinhala": "මග්ගොන ",
+    "TS_Id": "128",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.504445,
+    "Lon": 79.9809172,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PGS",
+    "Name": "Payagala South",
+    "Sinhala": "දකුණු පයාගල",
+    "TS_Id": "127",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.52168,
+    "Lon": 79.97888999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PGN",
+    "Name": "Payagala North",
+    "Sinhala": "උතුරු පයාගල",
+    "TS_Id": "126",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.531603899999999,
+    "Lon": 79.9750346,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KKD",
+    "Name": "Katukurunda",
+    "Sinhala": "කටුකුරුන්ද",
+    "TS_Id": "125",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.56009,
+    "Lon": 79.96607,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KTS",
+    "Name": "Kalutara South",
+    "Sinhala": "දකුණු කළුතර",
+    "TS_Id": "124",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.5841221,
+    "Lon": 79.9590274,
+    "Type": "Main"
+  },
+  {
+    "Code": "KTN",
+    "Name": "Kalutara North",
+    "Sinhala": "උතුරු කළුතර",
+    "TS_Id": "123",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.60124,
+    "Lon": 79.95427,
+    "Type": "Sub"
+  },
+  {
+    "Code": "TRH",
+    "Name": "Train Halt 01",
+    "Sinhala": "දුම්රිය නැවතුම අංක 01",
+    "TS_Id": "122",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.632533599999999,
+    "Lon": 79.9403282,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WDA",
+    "Name": "Wadduwa",
+    "Sinhala": "වාද්දුව",
+    "TS_Id": "121",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.6627573,
+    "Lon": 79.9285841,
+    "Type": "Main"
+  },
+  {
+    "Code": "PIN",
+    "Name": "Pinwatte",
+    "Sinhala": "පින්වත්ත",
+    "TS_Id": "120",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.685950399999999,
+    "Lon": 79.9159938,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PND",
+    "Name": "Panadura",
+    "Sinhala": "පානදුර",
+    "TS_Id": "119",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.71238,
+    "Lon": 79.90467,
+    "Type": "Main"
+  },
+  {
+    "Code": "EYA",
+    "Name": "Egoda Uyana",
+    "Sinhala": "එගොඩ උයන ",
+    "TS_Id": "118",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.7428681,
+    "Lon": 79.8916796,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KOR",
+    "Name": "Koralawella",
+    "Sinhala": "කොරළවැල්ල",
+    "TS_Id": "117",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.7577928,
+    "Lon": 79.88736999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MRT",
+    "Name": "Moratuwa",
+    "Sinhala": "මොරටුව ",
+    "TS_Id": "116",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.7743782,
+    "Lon": 79.88205180000001,
+    "Type": "Main"
+  },
+  {
+    "Code": "LNA",
+    "Name": "Lunawa",
+    "Sinhala": "ලුනාව ",
+    "TS_Id": "115",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.787065399999999,
+    "Lon": 79.8754388,
+    "Type": "Sub"
+  },
+  {
+    "Code": "AGL",
+    "Name": "Angulana",
+    "Sinhala": "අඟුලාන ",
+    "TS_Id": "114",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.7989494,
+    "Lon": 79.8726144,
+    "Type": "Sub"
+  },
+  {
+    "Code": "RML",
+    "Name": "Ratmalana",
+    "Sinhala": "රත්මලාන",
+    "TS_Id": "113",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.8195453,
+    "Lon": 79.8800832,
+    "Type": "Main"
+  },
+  {
+    "Code": "MLV",
+    "Name": "Mount Lavinia",
+    "Sinhala": "ගල්කිස්ස",
+    "TS_Id": "112",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.8316849,
+    "Lon": 79.86278949999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "DWL",
+    "Name": "Dehiwala",
+    "Sinhala": "දෙහිවල ",
+    "TS_Id": "111",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.8509059,
+    "Lon": 79.86209749999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WTE",
+    "Name": "Wellawatta",
+    "Sinhala": "වැල්ලවත්ත ",
+    "TS_Id": "110",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.874752,
+    "Lon": 79.85750639999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BPT",
+    "Name": "Bambalapitiya",
+    "Sinhala": "බම්බලපිටිය ",
+    "TS_Id": "109",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.8936984,
+    "Lon": 79.8529574,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KLP",
+    "Name": "Kollupitiya",
+    "Sinhala": "කොල්ලුපිටිය ",
+    "TS_Id": "108",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.9112629,
+    "Lon": 79.8481782,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KPN",
+    "Name": "Kompannavediya",
+    "Sinhala": "කොම්පඤ්ඤවීදිය",
+    "TS_Id": "107",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.9235549,
+    "Lon": 79.849704,
+    "Type": "Sub"
+  },
+  {
+    "Code": "SCR",
+    "Name": "Secretartat Halt",
+    "Sinhala": "මහලේකම් කාර්යාලය ",
+    "TS_Id": "106",
+    "Line": "1,2,3,5,6,7,8,9",
+    "Lat": 6.93199,
+    "Lon": 79.84611,
+    "Type": "Sub"
+  },
+  {
+    "Code": "FOT",
+    "Name": "Colombo Fort",
+    "Sinhala": "කොළඹ කොටුව",
+    "TS_Id": "500",
+    "Line": "1,2,3,4,5,6,7,8,9",
+    "Lat": 6.9337011,
+    "Lon": 79.85003019999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "MDA",
+    "Name": "Maradana",
+    "Sinhala": "මරදාන",
+    "TS_Id": "105",
+    "Line": "1,2,3,4,5,6,7,8,9",
+    "Lat": 6.92946,
+    "Lon": 79.86511000000002,
+    "Type": "Main"
+  },
+  {
+    "Code": "DAG",
+    "Name": "Dematagoda",
+    "Sinhala": "දෙමටගොඩ",
+    "TS_Id": "9",
+    "Line": "1,3,5,6,7,8,9,10",
+    "Lat": 6.9375,
+    "Lon": 79.87919,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BSL",
+    "Name": "Baseline Road",
+    "Sinhala": "බේස්ලයින් පාර",
+    "TS_Id": "232",
+    "Line": "4",
+    "Lat": 6.92636,
+    "Lon": 79.87847,
+    "Type": "Main"
+  },
+  {
+    "Code": "KLA",
+    "Name": "Kelaniya",
+    "Sinhala": "කැලණිය ",
+    "TS_Id": "10",
+    "Line": "1,3,5,6,7,8,9,10",
+    "Lat": 6.9610997,
+    "Lon": 79.8945133,
+    "Type": "Main"
+  },
+  {
+    "Code": "CRD",
+    "Name": "Cotta Road",
+    "Sinhala": "කෝට්ටේ පාර",
+    "TS_Id": "233",
+    "Line": "4",
+    "Lat": 6.913349999999999,
+    "Lon": 79.8845,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WSL",
+    "Name": "Wanawasala",
+    "Sinhala": "වනවාසල",
+    "TS_Id": "11",
+    "Line": "1,3,5,6,7,8,9,10",
+    "Lat": 6.975709999999999,
+    "Lon": 79.89923,
+    "Type": "Sub"
+  },
+  {
+    "Code": "NHP",
+    "Name": "Narahenpita",
+    "Sinhala": "නාරාහේන්පිට",
+    "TS_Id": "234",
+    "Line": "4",
+    "Lat": 6.896949999999999,
+    "Lon": 79.87787999999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "HUN",
+    "Name": "Hunupitiya",
+    "Sinhala": "හුනුපිටිය",
+    "TS_Id": "12",
+    "Line": "1,3,5,6,7,8,9,10",
+    "Lat": 6.9876421,
+    "Lon": 79.9003887,
+    "Type": "Main"
+  },
+  {
+    "Code": "KPE",
+    "Name": "Kirulapana",
+    "Sinhala": "කිරුලපන",
+    "TS_Id": "235",
+    "Line": "4",
+    "Lat": 6.8814717,
+    "Lon": 79.8763476,
+    "Type": "Sub"
+  },
+  {
+    "Code": "EDM",
+    "Name": "Ederamulla",
+    "Sinhala": "එඬේරමුල්ල",
+    "TS_Id": "13",
+    "Line": "1,3,5,6,7,8,9,10",
+    "Lat": 7.00034,
+    "Lon": 79.90687,
+    "Type": "Sub"
+  },
+  {
+    "Code": "NUG",
+    "Name": "Nugegoda",
+    "Sinhala": "නුගේගොඩ",
+    "TS_Id": "236",
+    "Line": "4",
+    "Lat": 6.872100700000001,
+    "Lon": 79.89100230000001,
+    "Type": "Main"
+  },
+  {
+    "Code": "HRP",
+    "Name": "Horape",
+    "Sinhala": "හොරපෙ",
+    "TS_Id": "14",
+    "Line": "1,3,5,6,7,8,9,10",
+    "Lat": 7.0166204,
+    "Lon": 79.9183961,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PRW",
+    "Name": "Pangiriwatta",
+    "Sinhala": "පැඟිරිවත්‍ත",
+    "TS_Id": "237",
+    "Line": "4",
+    "Lat": 6.8651082,
+    "Lon": 79.902164,
+    "Type": "Sub"
+  },
+  {
+    "Code": "RGM",
+    "Name": "Ragama",
+    "Sinhala": "රාගම හන්දිය",
+    "TS_Id": "15",
+    "Line": "1,3,5,6,7,8,9,10",
+    "Lat": 7.0300132,
+    "Lon": 79.92143329999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "UHM",
+    "Name": "Udahamulla",
+    "Sinhala": "උඩහමුල්ල",
+    "TS_Id": "238",
+    "Line": "4",
+    "Lat": 6.8622291,
+    "Lon": 79.90879609999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PRL",
+    "Name": "Peralanda",
+    "Sinhala": "පේරලන්ද",
+    "TS_Id": "188",
+    "Line": "3",
+    "Lat": 7.0380125,
+    "Lon": 79.91236210000001,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WPA",
+    "Name": "Walpola",
+    "Sinhala": "වල්පොල",
+    "TS_Id": "16",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.047149999999999,
+    "Lon": 79.93110999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "NWN",
+    "Name": "Nawinna",
+    "Sinhala": "නාවින්න",
+    "TS_Id": "239",
+    "Line": "4",
+    "Lat": 6.8528446,
+    "Lon": 79.9178781,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KAN",
+    "Name": "Kandana",
+    "Sinhala": "කඳාන",
+    "TS_Id": "189",
+    "Line": "3",
+    "Lat": 7.049299299999999,
+    "Lon": 79.901585,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BTU",
+    "Name": "Batuwatte",
+    "Sinhala": "බටුවත්ත",
+    "TS_Id": "17",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.0550971,
+    "Lon": 79.9371954,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MAG",
+    "Name": "Maharagama",
+    "Sinhala": "මහරගම",
+    "TS_Id": "240",
+    "Line": "4",
+    "Lat": 6.8482202,
+    "Lon": 79.92676689999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "KAW",
+    "Name": "Kapuwatte",
+    "Sinhala": "කපුවත්ත",
+    "TS_Id": "190",
+    "Line": "3",
+    "Lat": 7.0629149,
+    "Lon": 79.896065,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BGH",
+    "Name": "Bulugahagoda",
+    "Sinhala": "බුළුගහගොඩ",
+    "TS_Id": "18",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.0660845,
+    "Lon": 79.94564679999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PAN",
+    "Name": "Pannipitiya",
+    "Sinhala": "පන්නිපිටිය",
+    "TS_Id": "241",
+    "Line": "4",
+    "Lat": 6.847192199999999,
+    "Lon": 79.9489139,
+    "Type": "Sub"
+  },
+  {
+    "Code": "JLA",
+    "Name": "Ja-ela",
+    "Sinhala": "ජා-ඇල",
+    "TS_Id": "191",
+    "Line": "3",
+    "Lat": 7.0777784,
+    "Lon": 79.8919894,
+    "Type": "Main"
+  },
+  {
+    "Code": "GAN",
+    "Name": "Ganemulla",
+    "Sinhala": "ගණේමුල්ල",
+    "TS_Id": "19",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.068559199999999,
+    "Lon": 79.9599575,
+    "Type": "Main"
+  },
+  {
+    "Code": "KOT",
+    "Name": "Kottawa",
+    "Sinhala": "කොට්ටාව",
+    "TS_Id": "242",
+    "Line": "4",
+    "Lat": 6.843755499999999,
+    "Lon": 79.96827809999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "TUD",
+    "Name": "Thudella",
+    "Sinhala": "තුඩැල්ල",
+    "TS_Id": "192",
+    "Line": "3",
+    "Lat": 7.0929636,
+    "Lon": 79.8909473,
+    "Type": "Sub"
+  },
+  {
+    "Code": "YGD",
+    "Name": "Yagoda",
+    "Sinhala": "යාගොඩ",
+    "TS_Id": "20",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.0746951,
+    "Lon": 79.97384939999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MKB",
+    "Name": "Makumbura",
+    "Sinhala": "මාකුඹුර",
+    "TS_Id": "243",
+    "Line": "4",
+    "Lat": 6.8387546,
+    "Lon": 79.9766195,
+    "Type": "Main"
+  },
+  {
+    "Code": "KUD",
+    "Name": "Kudahakapola",
+    "Sinhala": "කුඩහකපොල",
+    "TS_Id": "193",
+    "Line": "3",
+    "Lat": 7.103913599999999,
+    "Lon": 79.88978999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "GPH",
+    "Name": "Gampaha",
+    "Sinhala": "ගම්පහ",
+    "TS_Id": "21",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.0935465,
+    "Lon": 79.9937296,
+    "Type": "Main"
+  },
+  {
+    "Code": "HHR",
+    "Name": "Homagama Hospital",
+    "Sinhala": "හෝමාගම රෝහල පාර",
+    "TS_Id": "244",
+    "Line": "4",
+    "Lat": 6.8459026,
+    "Lon": 79.9923927,
+    "Type": "Sub"
+  },
+  {
+    "Code": "AWP",
+    "Name": "Alawatupitiya",
+    "Sinhala": "අලවතුපිටිය",
+    "TS_Id": "194",
+    "Line": "3",
+    "Lat": 7.115814899999999,
+    "Lon": 79.8870192,
+    "Type": "Sub"
+  },
+  {
+    "Code": "DRL",
+    "Name": "Daraluwa",
+    "Sinhala": "දාරළුව",
+    "TS_Id": "22",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.1071528,
+    "Lon": 80.0104558,
+    "Type": "Sub"
+  },
+  {
+    "Code": "HMA",
+    "Name": "Homagama",
+    "Sinhala": "හෝමාගම",
+    "TS_Id": "245",
+    "Line": "4",
+    "Lat": 6.8456822,
+    "Lon": 80.004154,
+    "Type": "Main"
+  },
+  {
+    "Code": "SED",
+    "Name": "Seeduwa",
+    "Sinhala": "සීදූව",
+    "TS_Id": "195",
+    "Line": "3",
+    "Lat": 7.128940099999999,
+    "Lon": 79.8824662,
+    "Type": "Main"
+  },
+  {
+    "Code": "BEM",
+    "Name": "Bemmulla",
+    "Sinhala": "බෙම්මුල්ල",
+    "TS_Id": "23",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.122427900000001,
+    "Lon": 80.0204807,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PNG",
+    "Name": "Panagoda",
+    "Sinhala": "පනාගොඩ",
+    "TS_Id": "246",
+    "Line": "4",
+    "Lat": 6.8469352,
+    "Lon": 80.0189906,
+    "Type": "Sub"
+  },
+  {
+    "Code": "LGM",
+    "Name": "Liyanagemulla",
+    "Sinhala": "ලියනගෙමුල්ල",
+    "TS_Id": "196",
+    "Line": "3",
+    "Lat": 7.147194799999999,
+    "Lon": 79.87818539999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MGG",
+    "Name": "Magalegoda",
+    "Sinhala": "මගලෙගොඩ",
+    "TS_Id": "24",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.1338319,
+    "Lon": 80.036248,
+    "Type": "Sub"
+  },
+  {
+    "Code": "GGA",
+    "Name": "Godagama",
+    "Sinhala": "ගොඩගම",
+    "TS_Id": "247",
+    "Line": "4",
+    "Lat": 6.8479513,
+    "Lon": 80.0328269,
+    "Type": "Sub"
+  },
+  {
+    "Code": "IPZ",
+    "Name": "Investment Promotion Zone",
+    "Sinhala": "ආ. ප්‍ර. කලාපය",
+    "TS_Id": "197",
+    "Line": "3",
+    "Lat": 7.157883099999999,
+    "Lon": 79.875238,
+    "Type": "Sub"
+  },
+  {
+    "Code": "HDP",
+    "Name": "Heendeniya Pattigoda",
+    "Sinhala": "හීන්දෙනිය පට්ටිගොඩ",
+    "TS_Id": "25",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.141145499999999,
+    "Lon": 80.0471163,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MGD",
+    "Name": "Meegoda",
+    "Sinhala": "මීගොඩ",
+    "TS_Id": "248",
+    "Line": "4",
+    "Lat": 6.84341,
+    "Lon": 80.04626999999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "KTK",
+    "Name": "Katunayake",
+    "Sinhala": "කටුනායක",
+    "TS_Id": "198",
+    "Line": "3",
+    "Lat": 7.1669617,
+    "Lon": 79.8721035,
+    "Type": "Main"
+  },
+  {
+    "Code": "VGD",
+    "Name": "Veyangoda",
+    "Sinhala": "වේයන්ගොඩ",
+    "TS_Id": "26",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.152810199999999,
+    "Lon": 80.05864,
+    "Type": "Main"
+  },
+  {
+    "Code": "WAT",
+    "Name": "Wataraka",
+    "Sinhala": "වටරැක",
+    "TS_Id": "249",
+    "Line": "4",
+    "Lat": 6.8431563,
+    "Lon": 80.0600164,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KUR",
+    "Name": "Kurana",
+    "Sinhala": "කුරණ",
+    "TS_Id": "199",
+    "Line": "3",
+    "Lat": 7.191076,
+    "Lon": 79.8621136,
+    "Type": "Main"
+  },
+  {
+    "Code": "WRW",
+    "Name": "Wandurawa",
+    "Sinhala": "වදුරව ",
+    "TS_Id": "27",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.167609700000001,
+    "Lon": 80.06606339999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Liyanwala",
+    "Sinhala": "ලියන්වල",
+    "TS_Id": "250",
+    "Line": "4",
+    "Lat": 6.8390578,
+    "Lon": 80.0794449,
+    "Type": "Normal"
+  },
+  {
+    "Code": "NGB",
+    "Name": "Negombo",
+    "Sinhala": "මීගමුව",
+    "TS_Id": "200",
+    "Line": "3",
+    "Lat": 7.210421900000001,
+    "Lon": 79.84189239999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "KEN",
+    "Name": "Keenawala",
+    "Sinhala": "කීනවල",
+    "TS_Id": "28",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.1854707,
+    "Lon": 80.0744979,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PDK",
+    "Name": "Padukka",
+    "Sinhala": "පාදුක්ක",
+    "TS_Id": "251",
+    "Line": "4",
+    "Lat": 6.8427956,
+    "Lon": 80.0911663,
+    "Type": "Main"
+  },
+  {
+    "Code": "KAT",
+    "Name": "Kattuwa",
+    "Sinhala": "කට්ටුව",
+    "TS_Id": "201",
+    "Line": "3",
+    "Lat": 7.239240000000001,
+    "Lon": 79.84759,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PLL",
+    "Name": "Pallewala",
+    "Sinhala": "පල්ලෙවෙල",
+    "TS_Id": "29",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.198734599999999,
+    "Lon": 80.09001020000001,
+    "Type": "Main"
+  },
+  {
+    "Code": "ARW",
+    "Name": "Arukwatte",
+    "Sinhala": "අරුක්වත්ත",
+    "TS_Id": "252",
+    "Line": "4",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KCH",
+    "Name": "Kochchikade",
+    "Sinhala": "කොච්චිකඩේ",
+    "TS_Id": "202",
+    "Line": "3",
+    "Lat": 7.264383700000001,
+    "Lon": 79.85724809999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "GND",
+    "Name": "Ganegoda",
+    "Sinhala": "ගණේගොඩ ",
+    "TS_Id": "30",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.212889999999999,
+    "Lon": 80.10508999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "AGT",
+    "Name": "Angampitiya",
+    "Sinhala": "අංගම්පිටිය",
+    "TS_Id": "253",
+    "Line": "4",
+    "Lat": 6.847003099999999,
+    "Lon": 80.1191296,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WKL",
+    "Name": "Waikkala",
+    "Sinhala": "වයික්කාල",
+    "TS_Id": "203",
+    "Line": "3",
+    "Lat": 7.277383599999999,
+    "Lon": 79.86019309999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WRD",
+    "Name": "Wijayarajadahana",
+    "Sinhala": "විජය රජදහන ",
+    "TS_Id": "31",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.2307634,
+    "Lon": 80.118512,
+    "Type": "Sub"
+  },
+  {
+    "Code": "UGL",
+    "Name": "Uggalla",
+    "Sinhala": "උග්ගල්ල",
+    "TS_Id": "254",
+    "Line": "4",
+    "Lat": 6.858881999999999,
+    "Lon": 80.1177335,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BLT",
+    "Name": "Bolawatte",
+    "Sinhala": "බෝලවත්ත",
+    "TS_Id": "204",
+    "Line": "3",
+    "Lat": 7.297036999999999,
+    "Lon": 79.86086639999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "MIR",
+    "Name": "Mirigama",
+    "Sinhala": "මීරිගම",
+    "TS_Id": "32",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.242529999999999,
+    "Lon": 80.12666,
+    "Type": "Main"
+  },
+  {
+    "Code": "PNW",
+    "Name": "Pinnawala",
+    "Sinhala": "පින්නවල",
+    "TS_Id": "255",
+    "Line": "4",
+    "Lat": 7.3002859,
+    "Lon": 80.3864194,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BSA",
+    "Name": "Borelessa",
+    "Sinhala": "බොරලැස්ස",
+    "TS_Id": "205",
+    "Line": "3",
+    "Lat": 7.319940000000001,
+    "Lon": 79.86313,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WWT",
+    "Name": "Wilwatte",
+    "Sinhala": "විල්වත්ත",
+    "TS_Id": "33",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "GMN",
+    "Name": "Gammana",
+    "Sinhala": "ගම්මාන",
+    "TS_Id": "256",
+    "Line": "4",
+    "Lat": 6.8788196,
+    "Lon": 80.1219215,
+    "Type": "Sub"
+  },
+  {
+    "Code": "LWL",
+    "Name": "Lunuwila",
+    "Sinhala": "ලුණුවිල",
+    "TS_Id": "206",
+    "Line": "3",
+    "Lat": 7.346807900000001,
+    "Lon": 79.8629571,
+    "Type": "Main"
+  },
+  {
+    "Code": "BTL",
+    "Name": "Botale",
+    "Sinhala": "බෝතලේ",
+    "TS_Id": "34",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.256678300000001,
+    "Lon": 80.1531708,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MKP",
+    "Name": "Morakele",
+    "Sinhala": "මොරකැලේ",
+    "TS_Id": "257",
+    "Line": "4",
+    "Lat": 6.886761799999999,
+    "Lon": 80.1219215,
+    "Type": "Sub"
+  },
+  {
+    "Code": "TDR",
+    "Name": "Tummodara",
+    "Sinhala": "තුම්මෝදර",
+    "TS_Id": "207",
+    "Line": "3",
+    "Lat": 7.390442200000001,
+    "Lon": 79.85897,
+    "Type": "Sub"
+  },
+  {
+    "Code": "APS",
+    "Name": "Ambeypussa",
+    "Sinhala": "අඹේපුස්ස",
+    "TS_Id": "35",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.241776299999999,
+    "Lon": 80.2112164,
+    "Type": "Main"
+  },
+  {
+    "Code": "WGG",
+    "Name": "Waga",
+    "Sinhala": "වග",
+    "TS_Id": "258",
+    "Line": "4",
+    "Lat": 6.901008699999999,
+    "Lon": 80.1270837,
+    "Type": "Main"
+  },
+  {
+    "Code": "NAT",
+    "Name": "Nattandiya",
+    "Sinhala": "නාත්තන්ඩිය",
+    "TS_Id": "208",
+    "Line": "3",
+    "Lat": 7.4143224,
+    "Lon": 79.8660175,
+    "Type": "Main"
+  },
+  {
+    "Code": "YTG",
+    "Name": "Yattalgoda",
+    "Sinhala": "යත්තල්ගොඩ",
+    "TS_Id": "37",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.2705441,
+    "Lon": 80.194403,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KDG",
+    "Name": "Kadugoda",
+    "Sinhala": "කඩුගොඩ",
+    "TS_Id": "259",
+    "Line": "4",
+    "Lat": 6.9178824,
+    "Lon": 80.1348916,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WHP",
+    "Name": "Walahapitiya",
+    "Sinhala": "වලහපිටිය",
+    "TS_Id": "209",
+    "Line": "3",
+    "Lat": 7.4394672,
+    "Lon": 79.85914439999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BJM",
+    "Name": "Bujjomuwa",
+    "Sinhala": "බුජ්ජොමුව",
+    "TS_Id": "38",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.273176299999998,
+    "Lon": 80.2106113,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Arapangama",
+    "Sinhala": "අරපන්ගම",
+    "TS_Id": "260",
+    "Line": "4",
+    "Lat": 6.9327688,
+    "Lon": 80.1328971,
+    "Type": "Normal"
+  },
+  {
+    "Code": "KWW",
+    "Name": "Kudawewa",
+    "Sinhala": "කුඩා වැව",
+    "TS_Id": "210",
+    "Line": "3",
+    "Lat": 7.462174600000001,
+    "Lon": 79.85308529999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "ALW",
+    "Name": "Alawwa",
+    "Sinhala": "අලව්ව",
+    "TS_Id": "39",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.2933097,
+    "Lon": 80.23859379999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "KSG",
+    "Name": "Kosgama",
+    "Sinhala": "කොස්ගම",
+    "TS_Id": "261",
+    "Line": "4",
+    "Lat": 6.9406491,
+    "Lon": 80.1373176,
+    "Type": "Main"
+  },
+  {
+    "Code": "NPK",
+    "Name": "Nelumpokuna",
+    "Sinhala": "නෙළුම් පොකුණ",
+    "TS_Id": "211",
+    "Line": "3",
+    "Lat": 7.477001,
+    "Lon": 79.8445934,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WKA",
+    "Name": "Walakumbura",
+    "Sinhala": "වලකුඹුර",
+    "TS_Id": "40",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.313848600000001,
+    "Lon": 80.26908259999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "aluth ambalama",
+    "Sinhala": "අලුත් අම්බලම",
+    "TS_Id": "517",
+    "Line": "4",
+    "Lat": 6.939898599999999,
+    "Lon": 80.15973,
+    "Type": "Normal"
+  },
+  {
+    "Code": "MDP",
+    "Name": "Madampe",
+    "Sinhala": "මාදම්පේ",
+    "TS_Id": "212",
+    "Line": "3",
+    "Lat": 7.496872900000001,
+    "Lon": 79.8413077,
+    "Type": "Main"
+  },
+  {
+    "Code": "PLG",
+    "Name": "Polgahawela",
+    "Sinhala": "පොල්ගහවෙල හන්දිය ",
+    "TS_Id": "41",
+    "Line": "1,5,6,7,8,9,10",
+    "Lat": 7.331019999999999,
+    "Lon": 80.30098,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Miriswatte",
+    "Sinhala": "මිරිස්වත්ත",
+    "TS_Id": "263",
+    "Line": "4",
+    "Lat": 7.231207800000001,
+    "Lon": 79.9108744,
+    "Type": "Normal"
+  },
+  {
+    "Code": "GRB",
+    "Name": "Girambe",
+    "Sinhala": "ගිරාඹේ ",
+    "TS_Id": "350",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.3643172,
+    "Lon": 80.3025662,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PNL",
+    "Name": "Panaleeya",
+    "Sinhala": "පනලිය",
+    "TS_Id": "42",
+    "Line": "1,9",
+    "Lat": 7.3286286,
+    "Lon": 80.32509689999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Hingurala",
+    "Sinhala": "හිගුරල",
+    "TS_Id": "264",
+    "Line": "4",
+    "Lat": 6.936809999999999,
+    "Lon": 80.17169,
+    "Type": "Normal"
+  },
+  {
+    "Code": "TWG",
+    "Name": "Talawattegedara",
+    "Sinhala": "තලවත්තේගෙදර ",
+    "TS_Id": "351",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.387902,
+    "Lon": 80.3014809,
+    "Type": "Sub"
+  },
+  {
+    "Code": "TSM",
+    "Name": "Tismalpola",
+    "Sinhala": "තිස්මල්පොල",
+    "TS_Id": "43",
+    "Line": "1,9",
+    "Lat": 7.32161,
+    "Lon": 80.34286999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PWP",
+    "Name": "Puwakpitiya",
+    "Sinhala": "පුවක්පිටිය",
+    "TS_Id": "265",
+    "Line": "4",
+    "Lat": 6.934002599999999,
+    "Lon": 80.18742569999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PTA",
+    "Name": "Potuhera",
+    "Sinhala": "පොතුහැර ",
+    "TS_Id": "352",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.419754699999999,
+    "Lon": 80.32741349999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "YGM",
+    "Name": "Yatagama",
+    "Sinhala": "යටගම",
+    "TS_Id": "44",
+    "Line": "1,9",
+    "Lat": 7.3184986,
+    "Lon": 80.3643465,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Puwakpitiya town",
+    "Sinhala": "පුවක්පිටිය නගරය",
+    "TS_Id": "266",
+    "Line": "4",
+    "Lat": 6.938181699999999,
+    "Lon": 80.19299280000001,
+    "Type": "Normal"
+  },
+  {
+    "Code": "NLY",
+    "Name": "Nailiya",
+    "Sinhala": "නයිලිය ",
+    "TS_Id": "353",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.4499434,
+    "Lon": 80.3585476,
+    "Type": "Sub"
+  },
+  {
+    "Code": "RBK",
+    "Name": "Rambukkana",
+    "Sinhala": "රඹුක්කන",
+    "TS_Id": "46",
+    "Line": "1,9",
+    "Lat": 7.3212983,
+    "Lon": 80.390238,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Kiriwandala",
+    "Sinhala": "කිරිවන්දල",
+    "TS_Id": "267",
+    "Line": "4",
+    "Lat": 6.940946599999999,
+    "Lon": 80.1963047,
+    "Type": "Normal"
+  },
+  {
+    "Code": "KRN",
+    "Name": "Kurunegala",
+    "Sinhala": "කුරුණෑගල ",
+    "TS_Id": "354",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.4767587,
+    "Lon": 80.37407689999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "KMA",
+    "Name": "Kadigamuwa",
+    "Sinhala": "කඩිගමුව",
+    "TS_Id": "47",
+    "Line": "1,9",
+    "Lat": 7.3179559,
+    "Lon": 80.4335153,
+    "Type": "Main"
+  },
+  {
+    "Code": "AVS",
+    "Name": "Avissawella",
+    "Sinhala": "අවිස්සාවේල්ල",
+    "TS_Id": "268",
+    "Line": "4",
+    "Lat": 6.954641899999999,
+    "Lon": 80.2073635,
+    "Type": "Main"
+  },
+  {
+    "Code": "MTG",
+    "Name": "Muththettugala",
+    "Sinhala": "මුත්තෙට්ටුගල",
+    "TS_Id": "355",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.495818499999999,
+    "Lon": 80.37910939999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Yatiweldeniya",
+    "Sinhala": "යටිවැල්දෙණිය *",
+    "TS_Id": "48",
+    "Line": "1,9",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "maraluwawa",
+    "Sinhala": "මරළුවාව",
+    "TS_Id": "521",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.508286399999998,
+    "Lon": 80.3797834,
+    "Type": "Normal"
+  },
+  {
+    "Code": "GDA",
+    "Name": "Gangoda",
+    "Sinhala": "ගංගොඩ",
+    "TS_Id": "49",
+    "Line": "1,9",
+    "Lat": 7.2962468,
+    "Lon": 80.4546189,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "medagama",
+    "Sinhala": "මැද්දෙගම",
+    "TS_Id": "522",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.0344732,
+    "Lon": 81.276004,
+    "Type": "Normal"
+  },
+  {
+    "Code": "IKT",
+    "Name": "Ihalakotte",
+    "Sinhala": "ඉහළ කෝට්ටේ",
+    "TS_Id": "50",
+    "Line": "1,9",
+    "Lat": 7.288627099999999,
+    "Lon": 80.469414,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "thuruliyagama",
+    "Sinhala": "තුරුලියගම",
+    "TS_Id": "523",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.4817695,
+    "Lon": 80.3608876,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Babaragala",
+    "Sinhala": "බඹරගල",
+    "TS_Id": "545",
+    "Line": "1,9",
+    "Lat": 7.1736992,
+    "Lon": 80.1700686,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "hadirawalana",
+    "Sinhala": "හදිරවලාන",
+    "TS_Id": "524",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.549396,
+    "Lon": 80.3771814,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Makehelwala",
+    "Sinhala": "මාකෙහෙල්වල *",
+    "TS_Id": "51",
+    "Line": "1,9",
+    "Lat": 7.281938599999999,
+    "Lon": 80.47019639999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "WEL",
+    "Name": "Wellawa",
+    "Sinhala": "වැල්ලව ",
+    "TS_Id": "356",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.558599800000001,
+    "Lon": 80.3667498,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BNA",
+    "Name": "Balana",
+    "Sinhala": "බලන",
+    "TS_Id": "52",
+    "Line": "1,9",
+    "Lat": 7.2666393,
+    "Lon": 80.4894293,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "pahala waraddana",
+    "Sinhala": "පහළ වරද්දාන",
+    "TS_Id": "525",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.582712900000001,
+    "Lon": 80.3575128,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Weralugolla",
+    "Sinhala": "වෙරළුගොල්ල *",
+    "TS_Id": "53",
+    "Line": "1,9",
+    "Lat": 7.243389000000001,
+    "Lon": 80.4263562,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "porapola",
+    "Sinhala": "පොරපොල",
+    "TS_Id": "526",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.589225799999999,
+    "Lon": 80.3530021,
+    "Type": "Normal"
+  },
+  {
+    "Code": "KGW",
+    "Name": "Kadugannawa",
+    "Sinhala": "කඩුගන්නාව",
+    "TS_Id": "54",
+    "Line": "1,9",
+    "Lat": 7.2578171,
+    "Lon": 80.5207515,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "porapola junction",
+    "Sinhala": "පොරපොල හන්දිය",
+    "TS_Id": "527",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.589225799999999,
+    "Lon": 80.3530021,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Kotabogoda",
+    "Sinhala": "කොටබෝගොඩ",
+    "TS_Id": "546",
+    "Line": "1,9",
+    "Lat": 7.265273,
+    "Lon": 80.533427,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "pinnagolla",
+    "Sinhala": "පින්නගොල්ල",
+    "TS_Id": "528",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.6107563,
+    "Lon": 80.3463053,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "urapola",
+    "Sinhala": "ඌරපොල",
+    "TS_Id": "547",
+    "Line": "1,9",
+    "Lat": 7.0980424,
+    "Lon": 80.1449906,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "dewedda",
+    "Sinhala": "දෑවැද්ද",
+    "TS_Id": "529",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.6241545,
+    "Lon": 80.3597321,
+    "Type": "Normal"
+  },
+  {
+    "Code": "PLT",
+    "Name": "Pilimatalawa",
+    "Sinhala": "පිළිමතලාව",
+    "TS_Id": "55",
+    "Line": "1,9",
+    "Lat": 7.26689,
+    "Lon": 80.5526215,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "nelumpathgama",
+    "Sinhala": "නෙළුම්පත්ගම",
+    "TS_Id": "530",
+    "Line": "5,6,7,8,10",
+    "Lat": 6.432939999999999,
+    "Lon": 80.00025,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Barammane",
+    "Sinhala": "බරම්මනේ *",
+    "TS_Id": "56",
+    "Line": "1,9",
+    "Lat": 7.2681537,
+    "Lon": 80.5629846,
+    "Type": "Normal"
+  },
+  {
+    "Code": "GNW",
+    "Name": "Ganewatte",
+    "Sinhala": "ගනේවත්ත ",
+    "TS_Id": "357",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.6557037,
+    "Lon": 80.34925919999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Kiribathkubura",
+    "Sinhala": "කිරිබත්කුඹුර",
+    "TS_Id": "548",
+    "Line": "1,9",
+    "Lat": 7.267925900000001,
+    "Lon": 80.57496429999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "thambagamuwa",
+    "Sinhala": "තම්බගමුව",
+    "TS_Id": "531",
+    "Line": "5,6,7,8,10",
+    "Lat": 8.4984498,
+    "Lon": 81.09546569999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "PDA",
+    "Name": "Peradeniya",
+    "Sinhala": "පේරාදෙණිය (කොළඹ ▶️ නුවර / නුවර ▶️ කොළඹ)",
+    "TS_Id": "57",
+    "Line": "1,9",
+    "Lat": 7.257452700000001,
+    "Lon": 80.5902036,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "udugodapola",
+    "Sinhala": "උඩුගොඩපොල",
+    "TS_Id": "532",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "SUA",
+    "Name": "Sarasaviuyana",
+    "Sinhala": "සරසවි උයන (කොළඹ ▶️ නුවර / නුවර ▶️ කොළඹ)",
+    "TS_Id": "270",
+    "Line": "1",
+    "Lat": 7.260023500000001,
+    "Lon": 80.5965547,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "uyangolla",
+    "Sinhala": "උයන්ගල්ල",
+    "TS_Id": "533",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Rajawaththa",
+    "Sinhala": "රජවත්ත",
+    "TS_Id": "513",
+    "Line": "1",
+    "Lat": 6.9135286,
+    "Lon": 79.9408806,
+    "Type": "Normal"
+  },
+  {
+    "Code": "HRL",
+    "Name": "Hiriyala",
+    "Sinhala": "හිරියාල",
+    "TS_Id": "358",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Rendals hil",
+    "Sinhala": "රැන්ඩල්ස් හිල්",
+    "TS_Id": "512",
+    "Line": "1",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Weragala",
+    "Sinhala": "වේරගල",
+    "TS_Id": "534",
+    "Line": "5,6,7,8,10",
+    "Lat": 6.827248,
+    "Lon": 80.1233175,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Suduhumpola",
+    "Sinhala": "සුදුහුම්පොල",
+    "TS_Id": "511",
+    "Line": "1",
+    "Lat": 7.2818472,
+    "Lon": 80.6250601,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Adagala",
+    "Sinhala": "ආඳාගල",
+    "TS_Id": "535",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.500795099999999,
+    "Lon": 80.37352039999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "KDT",
+    "Name": "Kandy",
+    "Sinhala": "මහනුවර",
+    "TS_Id": "271",
+    "Line": "1",
+    "Lat": 7.289563599999998,
+    "Lon": 80.6323582,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "mirihampitigama",
+    "Sinhala": "මිරිහම්පිටිගම",
+    "TS_Id": "536",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Kandy City",
+    "Sinhala": "මහනුවර නගර නැවතුම",
+    "TS_Id": "555",
+    "Line": "9",
+    "Lat": 7.2905715,
+    "Lon": 80.6337262,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Suduhumpola",
+    "Sinhala": "සුදුහුම්පොල",
+    "TS_Id": "516",
+    "Line": "1",
+    "Lat": 7.2818472,
+    "Lon": 80.6250601,
+    "Type": "Normal"
+  },
+  {
+    "Code": "NAG",
+    "Name": "Nagollagama",
+    "Sinhala": "නාගොල්ලාගම ",
+    "TS_Id": "359",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.753601799999999,
+    "Lon": 80.3146076,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Asgiriya",
+    "Sinhala": "අස්ගිරිය",
+    "TS_Id": "272",
+    "Line": "9",
+    "Lat": 7.299328900000001,
+    "Lon": 80.63199780000001,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Rendals hil",
+    "Sinhala": "රැන්ඩල්ස් හිල්",
+    "TS_Id": "515",
+    "Line": "1",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "kurahanhenegama",
+    "Sinhala": "කුරහන්හේනේගම",
+    "TS_Id": "537",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.7670538,
+    "Lon": 80.2969413,
+    "Type": "Normal"
+  },
+  {
+    "Code": "MYM",
+    "Name": "Mahaiyawa",
+    "Sinhala": "මහයියාව",
+    "TS_Id": "273",
+    "Line": "9",
+    "Lat": 7.302299400000001,
+    "Lon": 80.6348687,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Rajawaththa",
+    "Sinhala": "රජවත්ත",
+    "TS_Id": "514",
+    "Line": "1",
+    "Lat": 6.9135286,
+    "Lon": 79.9408806,
+    "Type": "Normal"
+  },
+  {
+    "Code": "TIM",
+    "Name": "Timbiriyagedara",
+    "Sinhala": "තිඹිරියාගෙදර ",
+    "TS_Id": "360",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.7813631,
+    "Lon": 80.2977633,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Katugastote para",
+    "Sinhala": "කටුගස්තොට පාර",
+    "TS_Id": "274",
+    "Line": "9",
+    "Lat": 7.335990299999999,
+    "Lon": 80.6214005,
+    "Type": "Normal"
+  },
+  {
+    "Code": "SUA",
+    "Name": "Sarasaviuyana",
+    "Sinhala": "සරසවි උයන (නුවර ▶️ බදුල්ල / බදුල්ල ▶️ නුවර)",
+    "TS_Id": "409",
+    "Line": "1",
+    "Lat": 7.260023500000001,
+    "Lon": 80.5965547,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Walaswewa",
+    "Sinhala": "වලස්වැව",
+    "TS_Id": "538",
+    "Line": "5,6,7,8,10",
+    "Lat": 8.035890799999999,
+    "Lon": 80.3268812,
+    "Type": "Normal"
+  },
+  {
+    "Code": "PDA",
+    "Name": "peradeniya",
+    "Sinhala": "පේරාදෙණිය (නුවර ▶️ බදුල්ල / බදුල්ල ▶️ නුවර)",
+    "TS_Id": "410",
+    "Line": "1",
+    "Lat": 7.257452700000001,
+    "Lon": 80.5902036,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Mavilmada",
+    "Sinhala": "මාවිල්මඩ",
+    "TS_Id": "275",
+    "Line": "9",
+    "Lat": 7.3190747,
+    "Lon": 80.6308711,
+    "Type": "Normal"
+  },
+  {
+    "Code": "MHO",
+    "Name": "Maho",
+    "Sinhala": "මහව හන්දිය ",
+    "TS_Id": "361",
+    "Line": "5,6,7,8,10",
+    "Lat": 7.82309,
+    "Lon": 80.27508,
+    "Type": "Main"
+  },
+  {
+    "Code": "KHA",
+    "Name": "Koshinna",
+    "Sinhala": "කොස්හින්න",
+    "TS_Id": "58",
+    "Line": "1",
+    "Lat": 7.2333431,
+    "Lon": 80.59505399999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KTG",
+    "Name": "Katugastota",
+    "Sinhala": "කටුගස්තොට",
+    "TS_Id": "276",
+    "Line": "9",
+    "Lat": 7.330459400000001,
+    "Lon": 80.63299119999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "YPW",
+    "Name": "Yapahuwa",
+    "Sinhala": "යාපහුව",
+    "TS_Id": "292",
+    "Line": "6,7",
+    "Lat": 7.829284299999999,
+    "Lon": 80.30135469999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "RGA",
+    "Name": "Randenigama",
+    "Sinhala": "රන්දෙනිගම ",
+    "TS_Id": "362",
+    "Line": "5,8,10",
+    "Lat": 7.848491800000001,
+    "Lon": 80.25930579999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "GEY",
+    "Name": "Gelioya",
+    "Sinhala": "ගෙලිඔය",
+    "TS_Id": "59",
+    "Line": "1",
+    "Lat": 7.213891799999999,
+    "Lon": 80.5986214,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Pallethalavinna",
+    "Sinhala": "පල්ලේතලවින්න",
+    "TS_Id": "277",
+    "Line": "9",
+    "Lat": 7.3378922,
+    "Lon": 80.6413651,
+    "Type": "Normal"
+  },
+  {
+    "Code": "KON",
+    "Name": "Konwewa",
+    "Sinhala": "කෝන්වැව",
+    "TS_Id": "293",
+    "Line": "6,7",
+    "Lat": 7.8506762,
+    "Lon": 80.3491732,
+    "Type": "Main"
+  },
+  {
+    "Code": "ABN",
+    "Name": "Abanpola",
+    "Sinhala": "අඹන්පොල",
+    "TS_Id": "363",
+    "Line": "5,8,10",
+    "Lat": 7.919,
+    "Lon": 80.24609,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Polgaha anga",
+    "Sinhala": "පොල්ගහ අංඟ",
+    "TS_Id": "60",
+    "Line": "1",
+    "Lat": 7.2007327,
+    "Lon": 80.5985441,
+    "Type": "Normal"
+  },
+  {
+    "Code": "UDL",
+    "Name": "Udatalawinna",
+    "Sinhala": "උඩතලවින්න",
+    "TS_Id": "278",
+    "Line": "9",
+    "Lat": 7.339515,
+    "Lon": 80.6512812,
+    "Type": "Sub"
+  },
+  {
+    "Code": "RMA",
+    "Name": "Ranamukgama",
+    "Sinhala": "රනමුක්ගම",
+    "TS_Id": "294",
+    "Line": "6,7",
+    "Lat": 7.878718999999999,
+    "Lon": 80.39511279999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "GLM",
+    "Name": "Galgamuwa",
+    "Sinhala": "ගල්ගමුව ",
+    "TS_Id": "364",
+    "Line": "5,8,10",
+    "Lat": 8.00218,
+    "Lon": 80.27163,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Weligalla",
+    "Sinhala": "වැලිගල්ල",
+    "TS_Id": "61",
+    "Line": "1",
+    "Lat": 7.1889418,
+    "Lon": 80.5930611,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Meegammana",
+    "Sinhala": "මීගම්මන",
+    "TS_Id": "279",
+    "Line": "9",
+    "Lat": 7.340425799999999,
+    "Lon": 80.6668309,
+    "Type": "Normal"
+  },
+  {
+    "Code": "MLG",
+    "Name": "Moragollagama",
+    "Sinhala": "මොරගොල්ලාගම",
+    "TS_Id": "295",
+    "Line": "6,7",
+    "Lat": 7.906629499999999,
+    "Lon": 80.4409967,
+    "Type": "Main"
+  },
+  {
+    "Code": "SGM",
+    "Name": "Senarathgama",
+    "Sinhala": "සෙනරත්ගම",
+    "TS_Id": "365",
+    "Line": "5,8,10",
+    "Lat": 8.0858141,
+    "Lon": 80.2777186,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Gangathilaka",
+    "Sinhala": "ගංගාතිලක",
+    "TS_Id": "62",
+    "Line": "1",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Yatirawana",
+    "Sinhala": "යටිරාවණ",
+    "TS_Id": "280",
+    "Line": "9",
+    "Lat": 7.3396002,
+    "Lon": 80.675692,
+    "Type": "Normal"
+  },
+  {
+    "Code": "SYA",
+    "Name": "Siyalangamuwa",
+    "Sinhala": "සියඹලන්ගමුව",
+    "TS_Id": "296",
+    "Line": "6,7",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Ottukulama",
+    "Sinhala": "ඔට්ටුකුලම",
+    "TS_Id": "539",
+    "Line": "5,8,10",
+    "Lat": 7.7944016,
+    "Lon": 80.005979,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Kahatapitiya",
+    "Sinhala": "කහටපිටිය",
+    "TS_Id": "63",
+    "Line": "1",
+    "Lat": 7.168477299999999,
+    "Lon": 80.5733603,
+    "Type": "Normal"
+  },
+  {
+    "Code": "WGA",
+    "Name": "Wattegama",
+    "Sinhala": "වත්තේගම",
+    "TS_Id": "281",
+    "Line": "9",
+    "Lat": 7.3505608,
+    "Lon": 80.68258759999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "NGM",
+    "Name": "Negama",
+    "Sinhala": "නෑගම",
+    "TS_Id": "297",
+    "Line": "6,7",
+    "Lat": 7.9811652,
+    "Lon": 80.48709509999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "TBM",
+    "Name": "Thambuttegama",
+    "Sinhala": "තඹුත්තේගම ",
+    "TS_Id": "366",
+    "Line": "5,8,10",
+    "Lat": 8.1543233,
+    "Lon": 80.3038466,
+    "Type": "Main"
+  },
+  {
+    "Code": "GPL",
+    "Name": "Gampola",
+    "Sinhala": "ගම්පොල",
+    "TS_Id": "64",
+    "Line": "1",
+    "Lat": 7.16219,
+    "Lon": 80.56683,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Yatawara",
+    "Sinhala": "යටවර",
+    "TS_Id": "282",
+    "Line": "9",
+    "Lat": 7.365040500000001,
+    "Lon": 80.6698954,
+    "Type": "Normal"
+  },
+  {
+    "Code": "AWK",
+    "Name": "Aukana",
+    "Sinhala": "අවුකන",
+    "TS_Id": "298",
+    "Line": "6,7",
+    "Lat": 8.0044451,
+    "Lon": 80.5117497,
+    "Type": "Sub"
+  },
+  {
+    "Code": "TLA",
+    "Name": "Talawa",
+    "Sinhala": "තලාව",
+    "TS_Id": "367",
+    "Line": "5,8,10",
+    "Lat": 8.2365189,
+    "Lon": 80.35077299999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Wallahagoda",
+    "Sinhala": "වල්ලහගොඩ",
+    "TS_Id": "65",
+    "Line": "1",
+    "Lat": 7.1451802,
+    "Lon": 80.5616283,
+    "Type": "Normal"
+  },
+  {
+    "Code": "PTP",
+    "Name": "Pathanpha",
+    "Sinhala": "පතන්පහ",
+    "TS_Id": "283",
+    "Line": "9",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KLW",
+    "Name": "Kalawewa",
+    "Sinhala": "කලාවැව",
+    "TS_Id": "299",
+    "Line": "6,7",
+    "Lat": 8.023346600000002,
+    "Lon": 80.5310994,
+    "Type": "Main"
+  },
+  {
+    "Code": "SRP",
+    "Name": "Srawasthipura",
+    "Sinhala": "ශ්‍රාවස්ථිපුර ",
+    "TS_Id": "368",
+    "Line": "5,8,10",
+    "Lat": 8.29881,
+    "Lon": 80.37707,
+    "Type": "Main"
+  },
+  {
+    "Code": "TBL",
+    "Name": "Tembligala",
+    "Sinhala": "තැඹිලිගල",
+    "TS_Id": "66",
+    "Line": "1",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Marakona",
+    "Sinhala": "මාරකොන",
+    "TS_Id": "284",
+    "Line": "9",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "IHA",
+    "Name": "Ihalagama",
+    "Sinhala": "ඉහළගම",
+    "TS_Id": "300",
+    "Line": "6,7",
+    "Lat": 7.096391799999999,
+    "Lon": 80.0045811,
+    "Type": "Sub"
+  },
+  {
+    "Code": "APT",
+    "Name": "Anuradhapura Town",
+    "Sinhala": "අනුරාධපුර නව නගරය ",
+    "TS_Id": "369",
+    "Line": "5,8,10",
+    "Lat": 8.311351799999999,
+    "Lon": 80.4036508,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Warakapitiya",
+    "Sinhala": "වරකාපිටිය",
+    "TS_Id": "67",
+    "Line": "1",
+    "Lat": 7.1246339,
+    "Lon": 80.55831309999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "UWL",
+    "Name": "Udaththawala",
+    "Sinhala": "උඩත්තාවල",
+    "TS_Id": "285",
+    "Line": "9",
+    "Lat": 7.411579999999999,
+    "Lon": 80.64215999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KRA",
+    "Name": "Kekirawa",
+    "Sinhala": "කැකිරාව",
+    "TS_Id": "301",
+    "Line": "6,7",
+    "Lat": 8.0584046,
+    "Lon": 80.5814503,
+    "Type": "Main"
+  },
+  {
+    "Code": "ANP",
+    "Name": "Anuradhapura",
+    "Sinhala": "අනුරාධපුර ",
+    "TS_Id": "370",
+    "Line": "5,8,10",
+    "Lat": 8.344419499999999,
+    "Lon": 80.41083619999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "ULP",
+    "Name": "Ulapane",
+    "Sinhala": "උලපනේ",
+    "TS_Id": "68",
+    "Line": "1",
+    "Lat": 7.108371399999999,
+    "Lon": 80.5597196,
+    "Type": "Main"
+  },
+  {
+    "Code": "UKL",
+    "Name": "Ukuwela",
+    "Sinhala": "උකුවෙල",
+    "TS_Id": "286",
+    "Line": "9",
+    "Lat": 7.420392599999999,
+    "Lon": 80.6341588,
+    "Type": "Main"
+  },
+  {
+    "Code": "HLA",
+    "Name": "Horiwiala",
+    "Sinhala": "හොරිවිල",
+    "TS_Id": "302",
+    "Line": "6,7",
+    "Lat": 8.0679144,
+    "Lon": 80.6781376,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MHJ",
+    "Name": "Mihintale Junction",
+    "Sinhala": "මිහින්තලේ හන්දිය ",
+    "TS_Id": "371",
+    "Line": "5,8,10",
+    "Lat": 8.3593406,
+    "Lon": 80.4185888,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Pallegama",
+    "Sinhala": "පල්ලේගම",
+    "TS_Id": "69",
+    "Line": "1",
+    "Lat": 7.0836273,
+    "Lon": 80.5526342,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Thavalankoya",
+    "Sinhala": "තවලංකොය",
+    "TS_Id": "287",
+    "Line": "9",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "PUW",
+    "Name": "Palugaswewa",
+    "Sinhala": "පලුගස්වැව",
+    "TS_Id": "303",
+    "Line": "6,7",
+    "Lat": 8.0587494,
+    "Lon": 80.71204259999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Puliyankulama",
+    "Sinhala": "පුලියංකුලම",
+    "TS_Id": "540",
+    "Line": "5,8",
+    "Lat": 8.9598477,
+    "Lon": 80.5223608,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "warakawa",
+    "Sinhala": "වරකාව",
+    "TS_Id": "549",
+    "Line": "1",
+    "Lat": 7.074166,
+    "Lon": 80.5408283,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Alwala",
+    "Sinhala": "ඇල්වල",
+    "TS_Id": "288",
+    "Line": "9",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "samagipura",
+    "Sinhala": "සමගිපුර",
+    "TS_Id": "518",
+    "Line": "10",
+    "Lat": 8.3577709,
+    "Lon": 80.4414607,
+    "Type": "Normal"
+  },
+  {
+    "Code": "HBN",
+    "Name": "Habarana",
+    "Sinhala": "හබරණ",
+    "TS_Id": "304",
+    "Line": "6,7",
+    "Lat": 8.0571669,
+    "Lon": 80.7696287,
+    "Type": "Sub"
+  },
+  {
+    "Code": "SAL",
+    "Name": "Saliyapura",
+    "Sinhala": "සාලියපුර",
+    "TS_Id": "372",
+    "Line": "5,8",
+    "Lat": 8.3898916,
+    "Lon": 80.4222929,
+    "Type": "Sub"
+  },
+  {
+    "Code": "NVP",
+    "Name": "Nawalapitiya",
+    "Sinhala": "නාවලපිටිය",
+    "TS_Id": "70",
+    "Line": "1",
+    "Lat": 7.056989199999999,
+    "Lon": 80.53505799999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Kohombiliwala",
+    "Sinhala": "කොහොඹිලිවල",
+    "TS_Id": "289",
+    "Line": "9",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "ashokapura",
+    "Sinhala": "අශෝකපුර",
+    "TS_Id": "519",
+    "Line": "10",
+    "Lat": 8.379944199999999,
+    "Lon": 80.4787956,
+    "Type": "Normal"
+  },
+  {
+    "Code": "HKT",
+    "Name": "Hataras Kotuwa",
+    "Sinhala": "හතරැස්කොටුව",
+    "TS_Id": "305",
+    "Line": "6,7",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "mangalagama",
+    "Sinhala": "මංගලගම",
+    "TS_Id": "541",
+    "Line": "5,8",
+    "Lat": 7.570743599999998,
+    "Lon": 81.38255819999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Selam",
+    "Sinhala": "සේලම් *",
+    "TS_Id": "550",
+    "Line": "1",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "MTL",
+    "Name": "Matale",
+    "Sinhala": "මාතලේ",
+    "TS_Id": "290",
+    "Line": "9",
+    "Lat": 7.4680228,
+    "Lon": 80.62482659999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Mihintale",
+    "Sinhala": "මිහින්තලේ",
+    "TS_Id": "520",
+    "Line": "10",
+    "Lat": 8.3589425,
+    "Lon": 80.5017453,
+    "Type": "Normal"
+  },
+  {
+    "Code": "GOA",
+    "Name": "Galoya Junction",
+    "Sinhala": "ගල්ඔය හන්දිය",
+    "TS_Id": "306",
+    "Line": "6,7",
+    "Lat": 8.1377888,
+    "Lon": 80.8657479,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Buddanegama",
+    "Sinhala": "බුද්දනේගම",
+    "TS_Id": "542",
+    "Line": "5,8",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Heightenford",
+    "Sinhala": "හයිටෙන්ෆෝර්ඩ්",
+    "TS_Id": "72",
+    "Line": "1",
+    "Lat": 7.0318979,
+    "Lon": 80.5298066,
+    "Type": "Normal"
+  },
+  {
+    "Code": "APR",
+    "Name": "Akbopura",
+    "Sinhala": "අග්බෝපුර",
+    "TS_Id": "331",
+    "Line": "7",
+    "Lat": 8.3313952,
+    "Lon": 80.9764892,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MIY",
+    "Name": "Minneriya",
+    "Sinhala": "මින්නේරිය",
+    "TS_Id": "307",
+    "Line": "6",
+    "Lat": 8.0653016,
+    "Lon": 80.89473149999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PHW",
+    "Name": "Parasangahawewa",
+    "Sinhala": "පරසන්ගහවැව ",
+    "TS_Id": "373",
+    "Line": "5,8",
+    "Lat": 8.445062,
+    "Lon": 80.4315922,
+    "Type": "Main"
+  },
+  {
+    "Code": "INO",
+    "Name": "Inguruoya",
+    "Sinhala": "ඉඟුරුඔය",
+    "TS_Id": "73",
+    "Line": "1",
+    "Lat": 7.0182148,
+    "Lon": 80.5456209,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KNI",
+    "Name": "Kantale",
+    "Sinhala": "කන්තලේ",
+    "TS_Id": "332",
+    "Line": "7",
+    "Lat": 8.356349999999999,
+    "Lon": 81.00614999999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "HRG",
+    "Name": "Hingurakgoda",
+    "Sinhala": "හිඟුරක්ගොඩ",
+    "TS_Id": "308",
+    "Line": "6",
+    "Lat": 8.039690499999999,
+    "Lon": 80.95151419999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Siyabalagaswewa",
+    "Sinhala": "සියඹලගහවැව",
+    "TS_Id": "543",
+    "Line": "5,8",
+    "Lat": 6.3541667,
+    "Lon": 81.3366667,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Higuranoya",
+    "Sinhala": "හඟුරන්ඔය",
+    "TS_Id": "551",
+    "Line": "1",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "GTL",
+    "Name": "Gantalawa",
+    "Sinhala": "ගංතලාව",
+    "TS_Id": "333",
+    "Line": "7",
+    "Lat": 8.4359693,
+    "Lon": 81.0485545,
+    "Type": "Sub"
+  },
+  {
+    "Code": "HAU",
+    "Name": "Hatamuna",
+    "Sinhala": "හතමුණ",
+    "TS_Id": "309",
+    "Line": "6",
+    "Lat": 7.305744699999999,
+    "Lon": 80.69824779999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MEM",
+    "Name": "Medagama",
+    "Sinhala": "මැදගම",
+    "TS_Id": "374",
+    "Line": "5,8",
+    "Lat": 7.0344732,
+    "Lon": 81.276004,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Penrose",
+    "Sinhala": "පෙන්රෝස්",
+    "TS_Id": "74",
+    "Line": "1",
+    "Lat": 6.9943404,
+    "Lon": 80.5394036,
+    "Type": "Normal"
+  },
+  {
+    "Code": "MLP",
+    "Name": "Mollipatana",
+    "Sinhala": "මොල්ලිපොතාන",
+    "TS_Id": "334",
+    "Line": "7",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "JAP",
+    "Name": "Jayanthipura",
+    "Sinhala": "ජයන්තිපුර",
+    "TS_Id": "310",
+    "Line": "6",
+    "Lat": 7.948315600000001,
+    "Lon": 81.00178269999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Viralmarippuwa",
+    "Sinhala": "විරල්මරිප්පුව",
+    "TS_Id": "544",
+    "Line": "5,8",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "GBD",
+    "Name": "Galboda",
+    "Sinhala": "ගල්බොඩ",
+    "TS_Id": "75",
+    "Line": "1",
+    "Lat": 6.9866737,
+    "Lon": 80.52985790000001,
+    "Type": "Main"
+  },
+  {
+    "Code": "TAN",
+    "Name": "Thambalagamuwa",
+    "Sinhala": "තඹලගමුව",
+    "TS_Id": "335",
+    "Line": "7",
+    "Lat": 8.4984498,
+    "Lon": 81.09546569999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "LYA",
+    "Name": "Laksauyana",
+    "Sinhala": "ලක්ෂඋයන",
+    "TS_Id": "311",
+    "Line": "6",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MWH",
+    "Name": "Medawachchiya",
+    "Sinhala": "මැදවච්චිය හන්දිය ",
+    "TS_Id": "375",
+    "Line": "5,8",
+    "Lat": 8.5545621,
+    "Lon": 80.45813799999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Dekinda",
+    "Sinhala": "දෙකින්ද",
+    "TS_Id": "76",
+    "Line": "1",
+    "Lat": 7.001233900000001,
+    "Lon": 80.5202647,
+    "Type": "Normal"
+  },
+  {
+    "Code": "CBY",
+    "Name": "China bay",
+    "Sinhala": "චීන වරාය",
+    "TS_Id": "336",
+    "Line": "7",
+    "Lat": 8.556479999999999,
+    "Lon": 81.19049919999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "PKU",
+    "Name": "Parakum Uyana",
+    "Sinhala": "පැරකුම්උයන",
+    "TS_Id": "312",
+    "Line": "6",
+    "Lat": 7.914966700000001,
+    "Lon": 80.9983527,
+    "Type": "Sub"
+  },
+  {
+    "Code": "NYK",
+    "Name": "Neriyakulam",
+    "Sinhala": "නේරියකුලම",
+    "TS_Id": "339",
+    "Line": "8",
+    "Lat": 8.6145064,
+    "Lon": 80.3621434,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PON",
+    "Name": "Poonewa",
+    "Sinhala": "පූනෑව ",
+    "TS_Id": "376",
+    "Line": "5",
+    "Lat": 8.602087299999999,
+    "Lon": 80.4715866,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Wewelthalawa",
+    "Sinhala": "වේවැල්තලාව",
+    "TS_Id": "552",
+    "Line": "1",
+    "Lat": 7.0557704,
+    "Lon": 80.3792462,
+    "Type": "Normal"
+  },
+  {
+    "Code": "TCO",
+    "Name": "Trincomalee",
+    "Sinhala": "ත්‍රිකුණාමලය",
+    "TS_Id": "337",
+    "Line": "7",
+    "Lat": 8.5844423,
+    "Lon": 81.22615189999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "PLN",
+    "Name": "Polonnaruwa",
+    "Sinhala": "පොළොන්නරුව",
+    "TS_Id": "313",
+    "Line": "6",
+    "Lat": 7.930499,
+    "Lon": 81.0333654,
+    "Type": "Main"
+  },
+  {
+    "Code": "CDK",
+    "Name": "Cheddikulam",
+    "Sinhala": "සෙට්ටිකුලම",
+    "TS_Id": "340",
+    "Line": "8",
+    "Lat": 8.6690572,
+    "Lon": 80.3055475,
+    "Type": "Sub"
+  },
+  {
+    "Code": "EKM",
+    "Name": "Eratperiakulam",
+    "Sinhala": "ඊරට්පෙරියකුලම ",
+    "TS_Id": "377",
+    "Line": "5",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WLA",
+    "Name": "Watawala",
+    "Sinhala": "වටවල",
+    "TS_Id": "77",
+    "Line": "1",
+    "Lat": 6.961998299999999,
+    "Lon": 80.5260086,
+    "Type": "Main"
+  },
+  {
+    "Code": "GAL",
+    "Name": "Gallella",
+    "Sinhala": "ගල්ලෑල්ල",
+    "TS_Id": "314",
+    "Line": "6",
+    "Lat": 7.914302500000001,
+    "Lon": 81.0490099,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MRD",
+    "Name": "Madu Road",
+    "Sinhala": "මඩු පාර",
+    "TS_Id": "341",
+    "Line": "8",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "VNA",
+    "Name": "Vavuniya",
+    "Sinhala": "වවුනියාව ",
+    "TS_Id": "378",
+    "Line": "5",
+    "Lat": 8.7537264,
+    "Lon": 80.4936176,
+    "Type": "Main"
+  },
+  {
+    "Code": "IWL",
+    "Name": "Ihalawatawala",
+    "Sinhala": "ඉහළ වටවල",
+    "TS_Id": "78",
+    "Line": "1",
+    "Lat": 6.950013299999999,
+    "Lon": 80.5376481,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MPT",
+    "Name": "Manampitiya",
+    "Sinhala": "මනම්පිටිය",
+    "TS_Id": "315",
+    "Line": "6",
+    "Lat": 7.909602199999999,
+    "Lon": 81.110126,
+    "Type": "Main"
+  },
+  {
+    "Code": "MUK",
+    "Name": "Murunkan",
+    "Sinhala": "මුරුන්කන්",
+    "TS_Id": "342",
+    "Line": "8",
+    "Lat": 8.8342735,
+    "Lon": 80.0510474,
+    "Type": "Main"
+  },
+  {
+    "Code": "TDK",
+    "Name": "Thandikulama",
+    "Sinhala": "තාණ්ඩිකුලම ",
+    "TS_Id": "379",
+    "Line": "5",
+    "Lat": 8.7783345,
+    "Lon": 80.4848957,
+    "Type": "Sub"
+  },
+  {
+    "Code": "RZL",
+    "Name": "Rosella",
+    "Sinhala": "රොසැල්ල",
+    "TS_Id": "79",
+    "Line": "1",
+    "Lat": 6.934819399999999,
+    "Lon": 80.5588818,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Colconveli",
+    "Sinhala": "කොල්කන්වේලි",
+    "TS_Id": "316",
+    "Line": "6",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "MTM",
+    "Name": "Mathottam",
+    "Sinhala": "මාතොට්ටම්",
+    "TS_Id": "343",
+    "Line": "8",
+    "Lat": 8.879139,
+    "Lon": 79.9880019,
+    "Type": "Sub"
+  },
+  {
+    "Code": "OMT",
+    "Name": "Omanthai",
+    "Sinhala": "ඕමන්තෙයි ",
+    "TS_Id": "380",
+    "Line": "5",
+    "Lat": 8.8652702,
+    "Lon": 80.5011928,
+    "Type": "Main"
+  },
+  {
+    "Code": "HTN",
+    "Name": "Hatton",
+    "Sinhala": "හැටන්",
+    "TS_Id": "80",
+    "Line": "1",
+    "Lat": 6.8932386,
+    "Lon": 80.5974734,
+    "Type": "Main"
+  },
+  {
+    "Code": "SVP",
+    "Name": "Sevanapitiya",
+    "Sinhala": "සෙවනපිටිය",
+    "TS_Id": "317",
+    "Line": "6",
+    "Lat": 7.9251687,
+    "Lon": 81.1582112,
+    "Type": "Sub"
+  },
+  {
+    "Code": "TVM",
+    "Name": "Thiruketheeswaram",
+    "Sinhala": "තිරුකේස්වරම්",
+    "TS_Id": "344",
+    "Line": "8",
+    "Lat": 8.9107566,
+    "Lon": 79.9519054,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PKM",
+    "Name": "Puliyankulam",
+    "Sinhala": "පුලියංකුලම",
+    "TS_Id": "381",
+    "Line": "5",
+    "Lat": 8.9598477,
+    "Lon": 80.5223608,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Galkanda waththa",
+    "Sinhala": "ගල්කන්ද වත්ත",
+    "TS_Id": "510",
+    "Line": "1",
+    "Lat": 6.7500732,
+    "Lon": 80.9463464,
+    "Type": "Normal"
+  },
+  {
+    "Code": "WKD",
+    "Name": "Welikanda",
+    "Sinhala": "වැලිකන්ද",
+    "TS_Id": "318",
+    "Line": "6",
+    "Lat": 7.947087600000001,
+    "Lon": 81.2504335,
+    "Type": "Main"
+  },
+  {
+    "Code": "MAN",
+    "Name": "Mannar",
+    "Sinhala": "මන්නාරම",
+    "TS_Id": "345",
+    "Line": "8",
+    "Lat": 8.9712236,
+    "Lon": 79.8937814,
+    "Type": "Main"
+  },
+  {
+    "Code": "MKM",
+    "Name": "Mankulam",
+    "Sinhala": "මාන්කුලම් ",
+    "TS_Id": "382",
+    "Line": "5",
+    "Lat": 9.1306452,
+    "Lon": 80.44413469999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "KGA",
+    "Name": "Kotagala",
+    "Sinhala": "කොටගල",
+    "TS_Id": "81",
+    "Line": "1",
+    "Lat": 6.9283652,
+    "Lon": 80.60857770000001,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Aselapura",
+    "Sinhala": "අසේලපුර",
+    "TS_Id": "319",
+    "Line": "6",
+    "Lat": 7.963536499999999,
+    "Lon": 81.30014919999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "TDV",
+    "Name": "Thoddaveli",
+    "Sinhala": "තොඩ්ඩවේලි",
+    "TS_Id": "346",
+    "Line": "8",
+    "Lat": 9.025320599999999,
+    "Lon": 79.86732740000001,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MRK",
+    "Name": "Murikandy",
+    "Sinhala": "මුරුකණ්ඩි ",
+    "TS_Id": "383",
+    "Line": "5",
+    "Lat": 9.304459999999999,
+    "Lon": 80.40705,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "St kylas",
+    "Sinhala": "සෙන්ට් ක්ලෙයා(ර්)",
+    "TS_Id": "553",
+    "Line": "1",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "",
+    "Name": "Rideethenna",
+    "Sinhala": "රිදීතැන්න",
+    "TS_Id": "320",
+    "Line": "6",
+    "Lat": 7.9638333,
+    "Lon": 81.3394029,
+    "Type": "Normal"
+  },
+  {
+    "Code": "PES",
+    "Name": "Pesalai",
+    "Sinhala": "පේසාලේ",
+    "TS_Id": "347",
+    "Line": "8",
+    "Lat": 9.082704699999999,
+    "Lon": 79.8224528,
+    "Type": "Main"
+  },
+  {
+    "Code": "",
+    "Name": "Murukandi kovila",
+    "Sinhala": "මුරුකණ්ඩි කෝවිල ",
+    "TS_Id": "384",
+    "Line": "5",
+    "Lat": 9.304459999999999,
+    "Lon": 80.40705,
+    "Type": "Normal"
+  },
+  {
+    "Code": "TKL",
+    "Name": "Talawakele",
+    "Sinhala": "තලවාකැලේ",
+    "TS_Id": "82",
+    "Line": "1",
+    "Lat": 6.9400593,
+    "Lon": 80.6610578,
+    "Type": "Main"
+  },
+  {
+    "Code": "PNI",
+    "Name": "Punani",
+    "Sinhala": "පූනානි",
+    "TS_Id": "321",
+    "Line": "6",
+    "Lat": 7.9636603,
+    "Lon": 81.3872311,
+    "Type": "Main"
+  },
+  {
+    "Code": "TLM",
+    "Name": "Thalaimannar",
+    "Sinhala": "තලේමන්නාරම",
+    "TS_Id": "348",
+    "Line": "8",
+    "Lat": 9.090022,
+    "Lon": 79.7353431,
+    "Type": "Main"
+  },
+  {
+    "Code": "AVN",
+    "Name": "Ariviyal Nagar",
+    "Sinhala": "අරිවියල් නගර් ",
+    "TS_Id": "385",
+    "Line": "5",
+    "Lat": 9.3186352,
+    "Lon": 80.4076826,
+    "Type": "Sub"
+  },
+  {
+    "Code": "WTG",
+    "Name": "Watagoda",
+    "Sinhala": "වටගොඩ",
+    "TS_Id": "84",
+    "Line": "1",
+    "Lat": 6.9689845,
+    "Lon": 80.65287169999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "KDN",
+    "Name": "Kadadasi Nagar",
+    "Sinhala": "කඩදාසි නගරය",
+    "TS_Id": "322",
+    "Line": "6",
+    "Lat": 7.0637889,
+    "Lon": 79.93524959999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "TMP",
+    "Name": "Thalaimannar Pier",
+    "Sinhala": "තලේමන්නාරම් තොට",
+    "TS_Id": "349",
+    "Line": "8",
+    "Lat": 9.105974,
+    "Lon": 79.7301221,
+    "Type": "Main"
+  },
+  {
+    "Code": "KOC",
+    "Name": "Kilinochchi",
+    "Sinhala": "කිලිනොච්චි ",
+    "TS_Id": "386",
+    "Line": "5",
+    "Lat": 9.3897561,
+    "Lon": 80.4065001,
+    "Type": "Main"
+  },
+  {
+    "Code": "GWN",
+    "Name": "Great Western",
+    "Sinhala": "ග්‍රේට් වෙස්ටර්න්",
+    "TS_Id": "85",
+    "Line": "1",
+    "Lat": 6.9571952,
+    "Lon": 80.6890494,
+    "Type": "Main"
+  },
+  {
+    "Code": "VCH",
+    "Name": "Valachchenei",
+    "Sinhala": "වාලච්චේන",
+    "TS_Id": "323",
+    "Line": "6",
+    "Lat": 7.9102777,
+    "Lon": 81.5318128,
+    "Type": "Main"
+  },
+  {
+    "Code": "PRN",
+    "Name": "Paranthan",
+    "Sinhala": "පරන්තන් ",
+    "TS_Id": "387",
+    "Line": "5",
+    "Lat": 9.4402128,
+    "Lon": 80.40714109999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "RDL",
+    "Name": "Radella",
+    "Sinhala": "රදැල්ල",
+    "TS_Id": "86",
+    "Line": "1",
+    "Lat": 6.944739999999999,
+    "Lon": 80.71672,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KKH",
+    "Name": "Kalkudah",
+    "Sinhala": "කල්කුඩා",
+    "TS_Id": "324",
+    "Line": "6",
+    "Lat": 7.896274,
+    "Lon": 81.55411269999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "EPS",
+    "Name": "Elephant Pass",
+    "Sinhala": "අලිමංකඩ ",
+    "TS_Id": "388",
+    "Line": "5",
+    "Lat": 9.5021831,
+    "Lon": 80.4058617,
+    "Type": "Main"
+  },
+  {
+    "Code": "NOA",
+    "Name": "Nanuoya",
+    "Sinhala": "නානුඔය",
+    "TS_Id": "87",
+    "Line": "1",
+    "Lat": 6.942349999999999,
+    "Lon": 80.74372,
+    "Type": "Main"
+  },
+  {
+    "Code": "DPM",
+    "Name": "Dewapuram",
+    "Sinhala": "දේවපුරම්",
+    "TS_Id": "325",
+    "Line": "6",
+    "Lat": 7.8266646,
+    "Lon": 81.5572395,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PAL",
+    "Name": "Palai",
+    "Sinhala": "පලෙයි ",
+    "TS_Id": "389",
+    "Line": "5",
+    "Lat": 9.6078587,
+    "Lon": 80.33014299999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "PKP",
+    "Name": "Perakumpura",
+    "Sinhala": "පැරකුම්පුර",
+    "TS_Id": "88",
+    "Line": "1",
+    "Lat": 8.1528551,
+    "Lon": 80.1456496,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Sittankudi",
+    "Sinhala": "සිට්ටන්කුඩි",
+    "TS_Id": "326",
+    "Line": "6",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "EML",
+    "Name": "Eluthumattuval",
+    "Sinhala": "එළුදුමට්ටුවාල්",
+    "TS_Id": "390",
+    "Line": "5",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "ABL",
+    "Name": "Ambewela",
+    "Sinhala": "අඹේවෙල",
+    "TS_Id": "89",
+    "Line": "1",
+    "Lat": 6.8771336,
+    "Lon": 80.8146143,
+    "Type": "Main"
+  },
+  {
+    "Code": "VML",
+    "Name": "Vandaramullai",
+    "Sinhala": "වන්දාරමුල්ල",
+    "TS_Id": "327",
+    "Line": "6",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MSL",
+    "Name": "Mirusuvil",
+    "Sinhala": "මිරුසුවිල් ",
+    "TS_Id": "391",
+    "Line": "5",
+    "Lat": 9.667702799999999,
+    "Lon": 80.23401799999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PPL",
+    "Name": "Pattipola",
+    "Sinhala": "පට්ටිපොල",
+    "TS_Id": "90",
+    "Line": "1",
+    "Lat": 6.855845899999999,
+    "Lon": 80.8306915,
+    "Type": "Main"
+  },
+  {
+    "Code": "EVR",
+    "Name": "Eravur",
+    "Sinhala": "එරාවුර්",
+    "TS_Id": "328",
+    "Line": "6",
+    "Lat": 7.785586400000001,
+    "Lon": 81.6044138,
+    "Type": "Main"
+  },
+  {
+    "Code": "KKM",
+    "Name": "Kodikamam",
+    "Sinhala": "කොඩිකාමම් ",
+    "TS_Id": "392",
+    "Line": "5",
+    "Lat": 9.6813807,
+    "Lon": 80.21982910000001,
+    "Type": "Main"
+  },
+  {
+    "Code": "OHA",
+    "Name": "Ohiya",
+    "Sinhala": "ඔහිය",
+    "TS_Id": "91",
+    "Line": "1",
+    "Lat": 6.817706299999999,
+    "Lon": 80.84297289999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "BCO",
+    "Name": "Batticaloa",
+    "Sinhala": "මඩකලපුව",
+    "TS_Id": "329",
+    "Line": "6",
+    "Lat": 7.724485199999999,
+    "Lon": 81.698769,
+    "Type": "Main"
+  },
+  {
+    "Code": "MES",
+    "Name": "Meesalai",
+    "Sinhala": "මීසාලේ",
+    "TS_Id": "393",
+    "Line": "5",
+    "Lat": 9.6734919,
+    "Lon": 80.1888618,
+    "Type": "Sub"
+  },
+  {
+    "Code": "IGH",
+    "Name": "Idalgasinna",
+    "Sinhala": "ඉදල්ගස්හින්න",
+    "TS_Id": "92",
+    "Line": "1",
+    "Lat": 6.782969,
+    "Lon": 80.9000331,
+    "Type": "Main"
+  },
+  {
+    "Code": "SAK",
+    "Name": "Sankaththanai",
+    "Sinhala": "සංකත්තානේ",
+    "TS_Id": "394",
+    "Line": "5",
+    "Lat": 9.6644795,
+    "Lon": 80.1701452,
+    "Type": "Sub"
+  },
+  {
+    "Code": "",
+    "Name": "Glrnor",
+    "Sinhala": "ග්ලෙනෝර් ",
+    "TS_Id": "554",
+    "Line": "1",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Normal"
+  },
+  {
+    "Code": "CCH",
+    "Name": "Chavakachcheri",
+    "Sinhala": "චාවාකච්චේරිය",
+    "TS_Id": "395",
+    "Line": "5",
+    "Lat": 9.657150099999999,
+    "Lon": 80.1585782,
+    "Type": "Main"
+  },
+  {
+    "Code": "HPT",
+    "Name": "Haputale",
+    "Sinhala": "හපුතලේ",
+    "TS_Id": "94",
+    "Line": "1",
+    "Lat": 6.7682933,
+    "Lon": 80.9576082,
+    "Type": "Main"
+  },
+  {
+    "Code": "TPH",
+    "Name": "Thachanthoppu",
+    "Sinhala": "තාචන්තෝප්පු ",
+    "TS_Id": "396",
+    "Line": "5",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "DLA",
+    "Name": "Diyatalawa",
+    "Sinhala": "දියතලාව",
+    "TS_Id": "95",
+    "Line": "1",
+    "Lat": 6.8019304,
+    "Lon": 80.9591616,
+    "Type": "Main"
+  },
+  {
+    "Code": "NVK",
+    "Name": "Navatkuli",
+    "Sinhala": "නාවක්කුලිය ",
+    "TS_Id": "397",
+    "Line": "5",
+    "Lat": 9.6617193,
+    "Lon": 80.0813895,
+    "Type": "Main"
+  },
+  {
+    "Code": "BDA",
+    "Name": "Bandarawela",
+    "Sinhala": "බණ්ඩාරවෙල",
+    "TS_Id": "96",
+    "Line": "1",
+    "Lat": 6.8289271,
+    "Lon": 80.987606,
+    "Type": "Main"
+  },
+  {
+    "Code": "PNK",
+    "Name": "Punkankulam",
+    "Sinhala": "පුන්කන්කුලම",
+    "TS_Id": "398",
+    "Line": "5",
+    "Lat": 9.6569788,
+    "Lon": 80.03749599999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KNM",
+    "Name": "Kinigama",
+    "Sinhala": "කිණිගම",
+    "TS_Id": "97",
+    "Line": "1",
+    "Lat": 6.8298433,
+    "Lon": 81.0058612,
+    "Type": "Sub"
+  },
+  {
+    "Code": "JFN",
+    "Name": "Jaffna",
+    "Sinhala": "යාපනය ",
+    "TS_Id": "399",
+    "Line": "5",
+    "Lat": 9.66521,
+    "Lon": 80.0208,
+    "Type": "Main"
+  },
+  {
+    "Code": "HLO",
+    "Name": "Heel Oya",
+    "Sinhala": "හීල් ඔය",
+    "TS_Id": "98",
+    "Line": "1",
+    "Lat": 6.844250799999999,
+    "Lon": 81.0256505,
+    "Type": "Main"
+  },
+  {
+    "Code": "KKV",
+    "Name": "Kokkuvil",
+    "Sinhala": "කොකුවිල් ",
+    "TS_Id": "400",
+    "Line": "5",
+    "Lat": 9.688276199999999,
+    "Lon": 80.021131,
+    "Type": "Main"
+  },
+  {
+    "Code": "KEL",
+    "Name": "Kital Ella",
+    "Sinhala": "කිතල් ඇල්ල",
+    "TS_Id": "99",
+    "Line": "1",
+    "Lat": 6.861161200000001,
+    "Lon": 81.043117,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KDV",
+    "Name": "Kondavil",
+    "Sinhala": "කෝණ්ඩාවිල්",
+    "TS_Id": "401",
+    "Line": "5",
+    "Lat": 9.704184699999999,
+    "Lon": 80.02463560000001,
+    "Type": "Sub"
+  },
+  {
+    "Code": "ELL",
+    "Name": "Ella",
+    "Sinhala": "ඇල්ල",
+    "TS_Id": "100",
+    "Line": "1",
+    "Lat": 6.8757755,
+    "Lon": 81.0471082,
+    "Type": "Main"
+  },
+  {
+    "Code": "INL",
+    "Name": "Inuvil",
+    "Sinhala": "ඉණුවිල් ",
+    "TS_Id": "402",
+    "Line": "5",
+    "Lat": 9.7267277,
+    "Lon": 80.02953169999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "DDR",
+    "Name": "Demodara",
+    "Sinhala": "දෙමෝදර",
+    "TS_Id": "101",
+    "Line": "1",
+    "Lat": 6.90293,
+    "Lon": 81.06277999999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "CKM",
+    "Name": "Chunnakam",
+    "Sinhala": "චුන්නාකම්",
+    "TS_Id": "403",
+    "Line": "5",
+    "Lat": 9.7458374,
+    "Lon": 80.03343129999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "UDW",
+    "Name": "Uduwara",
+    "Sinhala": "උඩුවර",
+    "TS_Id": "102",
+    "Line": "1",
+    "Lat": 6.931507099999999,
+    "Lon": 81.0421193,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MAL",
+    "Name": "Mallakam",
+    "Sinhala": "මල්ලාකම්",
+    "TS_Id": "404",
+    "Line": "5",
+    "Lat": 9.7629208,
+    "Lon": 80.032381,
+    "Type": "Sub"
+  },
+  {
+    "Code": "HEA",
+    "Name": "Haliela",
+    "Sinhala": "හාලි ඇල",
+    "TS_Id": "103",
+    "Line": "1",
+    "Lat": 6.9539896,
+    "Lon": 81.0335255,
+    "Type": "Main"
+  },
+  {
+    "Code": "TPL",
+    "Name": "Tellippalai",
+    "Sinhala": "තෙලිප්පලේ",
+    "TS_Id": "405",
+    "Line": "5",
+    "Lat": 9.784939999999999,
+    "Lon": 80.03514,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BAD",
+    "Name": "Badulla",
+    "Sinhala": "බදුල්ල",
+    "TS_Id": "104",
+    "Line": "1",
+    "Lat": 6.9800441,
+    "Lon": 81.0596801,
+    "Type": "Main"
+  },
+  {
+    "Code": "MVT",
+    "Name": "Mavittapuram",
+    "Sinhala": "මාවිත්තපුරම්",
+    "TS_Id": "406",
+    "Line": "5",
+    "Lat": 9.8007688,
+    "Lon": 80.03532849999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "KKS",
+    "Name": "Kankesanthurai",
+    "Sinhala": "කන්කසන්තුරේ",
+    "TS_Id": "407",
+    "Line": "5",
+    "Lat": 9.81467,
+    "Lon": 80.04818999999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "KYA",
+    "Name": "Kakkapalliya",
+    "Sinhala": "කාක්කපල්ලිය",
+    "TS_Id": "213",
+    "Line": "3",
+    "Lat": 7.532859500000001,
+    "Lon": 79.822728,
+    "Type": "Sub"
+  },
+  {
+    "Code": "SWR",
+    "Name": "Sawarana",
+    "Sinhala": "සවරාන",
+    "TS_Id": "214",
+    "Line": "3",
+    "Lat": 7.5582049,
+    "Lon": 79.8089036,
+    "Type": "Sub"
+  },
+  {
+    "Code": "CHL",
+    "Name": "Chilaw",
+    "Sinhala": "හලාවත",
+    "TS_Id": "215",
+    "Line": "3",
+    "Lat": 7.5755526,
+    "Lon": 79.7911128,
+    "Type": "Main"
+  },
+  {
+    "Code": "MNG",
+    "Name": "Manuwangama",
+    "Sinhala": "මානුවන්ගම",
+    "TS_Id": "216",
+    "Line": "3",
+    "Lat": 7.6007015,
+    "Lon": 79.82742999999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BGY",
+    "Name": "Bangadeniya",
+    "Sinhala": "බංගදෙනිය",
+    "TS_Id": "217",
+    "Line": "3",
+    "Lat": 7.635406,
+    "Lon": 79.8285002,
+    "Type": "Main"
+  },
+  {
+    "Code": "AKT",
+    "Name": "Arachchikattuwa",
+    "Sinhala": "ආරච්චිකට්ටුව",
+    "TS_Id": "218",
+    "Line": "3",
+    "Lat": 7.6673165,
+    "Lon": 79.8286198,
+    "Type": "Sub"
+  },
+  {
+    "Code": "AVD",
+    "Name": "Anawilundawa",
+    "Sinhala": "ආනවිලුන්දාව",
+    "TS_Id": "219",
+    "Line": "3",
+    "Lat": 7.703179899999999,
+    "Lon": 79.82817829999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "BOA",
+    "Name": "Battaluoya",
+    "Sinhala": "බත්තුලුඔය",
+    "TS_Id": "220",
+    "Line": "3",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PCK",
+    "Name": "Pulachchikulam",
+    "Sinhala": "පුලිච්චාකුලම",
+    "TS_Id": "221",
+    "Line": "3",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MNL",
+    "Name": "Mundal",
+    "Sinhala": "මුන්දලම",
+    "TS_Id": "222",
+    "Line": "3",
+    "Lat": 7.908953499999999,
+    "Lon": 79.8229348,
+    "Type": "Main"
+  },
+  {
+    "Code": "MGE",
+    "Name": "Mangala Eliya",
+    "Sinhala": "මංගල එළිය",
+    "TS_Id": "223",
+    "Line": "3",
+    "Lat": 7.8599091,
+    "Lon": 79.8204619,
+    "Type": "Sub"
+  },
+  {
+    "Code": "MKI",
+    "Name": "Madurankuliya",
+    "Sinhala": "මදුරන්කුලිය",
+    "TS_Id": "224",
+    "Line": "3",
+    "Lat": 7.903040799999999,
+    "Lon": 79.82101949999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "EPN",
+    "Name": "Erukkalampiddy Nagawillu",
+    "Sinhala": "එරුක්කලම්පිඩ්ඩි නාගවිල්ලු",
+    "TS_Id": "225",
+    "Line": "3",
+    "Lat": 9.0343506,
+    "Lon": 79.881483,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PVI",
+    "Name": "Palavi",
+    "Sinhala": "පාලවි",
+    "TS_Id": "226",
+    "Line": "3",
+    "Lat": 7.9812432,
+    "Lon": 79.84648039999999,
+    "Type": "Main"
+  },
+  {
+    "Code": "TDY",
+    "Name": "Thil adiya",
+    "Sinhala": "තිල් අඩිය",
+    "TS_Id": "227",
+    "Line": "3",
+    "Lat": 7.873053999999999,
+    "Lon": 80.77179699999999,
+    "Type": "Sub"
+  },
+  {
+    "Code": "PTM",
+    "Name": "Puttalam",
+    "Sinhala": "පුත්තලම",
+    "TS_Id": "228",
+    "Line": "3",
+    "Lat": 8.0226826,
+    "Lon": 79.8378718,
+    "Type": "Main"
+  },
+  {
+    "Code": "NOR",
+    "Name": "Noor Nagar",
+    "Sinhala": "නූර්නගර්",
+    "TS_Id": "229",
+    "Line": "3",
+    "Lat": 8.0360366,
+    "Lon": 79.8398016,
+    "Type": "Main"
+  }
+]
