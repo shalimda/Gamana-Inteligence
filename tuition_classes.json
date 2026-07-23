@@ -1,0 +1,26 @@
+[
+  {
+    "subject": "ICT",
+    "keywords": ["ict", "information technology", "computer studies", "අයි.සී.ටී", "අයිසීටී", "පරිගණක විද්‍යාව"],
+    "teacher_name": "Mr. Kasun Perera",
+    "main_img": "https://your-image-host.com/ict_main.jpg",
+    "sub_img": "https://your-image-host.com/ict_sub.jpg",
+    "url": "https://example.com/ict-classes"
+  },
+  {
+    "subject": "Physics",
+    "keywords": ["physics", "භෞතික විද්‍යාව"],
+    "teacher_name": "Mrs. Nadeesha Silva",
+    "main_img": "https://your-image-host.com/physics_main.jpg",
+    "sub_img": "https://your-image-host.com/physics_sub.jpg",
+    "url": "https://example.com/physics-classes"
+  },
+  {
+    "subject": "Grade 6",
+    "keywords": ["p6", "grade 6", "6 shreniya", "6 ශ්‍රේණිය"],
+    "teacher_name": "Mr. Chamara Fernando",
+    "main_img": "https://your-image-host.com/grade6_main.jpg",
+    "sub_img": "https://your-image-host.com/grade6_sub.jpg",
+    "url": "https://example.com/grade6-classes"
+  }
+]
